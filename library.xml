@@ -155,32 +155,6 @@
         <page-attributes/>
     </content>
 
-    <content content-id="067f4c1cb727e8d5b943454847">
-        <type>component.commerce_assets.imageAndText</type>
-        <config>{
-  "visibility" : [ ]
-}</config>
-        <data xml:lang="x-default">{
-  "ITCLink" : null,
-  "ITCText" : null,
-  "image" : {
-    "path" : "knuffman_9.jpg",
-    "focal_point" : {
-      "x" : 0.5,
-      "y" : 0.5
-    },
-    "meta_data" : {
-      "height" : 216,
-      "width" : 260
-    }
-  },
-  "heading" : null,
-  "alt" : null
-}</data>
-        <online-flag>true</online-flag>
-        <page-attributes/>
-    </content>
-
     <content content-id="078614f83a4ad1b79c4514aa8e">
         <type>component.commerce_layouts.mobileGrid1r1c</type>
         <config>{
@@ -253,32 +227,6 @@
   },
   "heading" : null,
   "alt" : "Appointment booking FIliale"
-}</data>
-        <online-flag>true</online-flag>
-        <page-attributes/>
-    </content>
-
-    <content content-id="089aee1a98d1a5ef5ffe13a8d6">
-        <type>component.commerce_assets.imageAndText</type>
-        <config>{
-  "visibility" : [ ]
-}</config>
-        <data xml:lang="x-default">{
-  "ITCLink" : null,
-  "ITCText" : null,
-  "image" : {
-    "path" : "knuffman_10.jpg",
-    "focal_point" : {
-      "x" : 0.5,
-      "y" : 0.5
-    },
-    "meta_data" : {
-      "height" : 216,
-      "width" : 260
-    }
-  },
-  "heading" : null,
-  "alt" : null
 }</data>
         <online-flag>true</online-flag>
         <page-attributes/>
@@ -1189,8 +1137,69 @@
         <page-attributes/>
     </content>
 
-    <content content-id="388e424fb92109d0aa4144f819">
+<content content-id="388e424fb92109d0aa4144f819">
         <type>component.commerce_layouts.mobileGrid3r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="632c09160889ab7b1c11fd6d70" type="component.commerce_layouts.mobileGrid3r2c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="ede134d2436b447383b3abb5b7" type="component.commerce_layouts.mobileGrid3r2c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="524b45aa1b339a6f728ee9a314" type="component.commerce_layouts.mobileGrid3r2c.column5">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="7f145bbbb547f2a544f51c936c" type="component.commerce_layouts.mobileGrid3r2c.column6">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="1a5dd009c7dc33363e67833587" type="component.commerce_layouts.mobileGrid3r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="75b6bad81a88cbb1bd7cdf4907" type="component.commerce_layouts.mobileGrid3r2c.column4">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="a689a64ba85069f389fb00ebd0">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+      "visibility" : [ ]
+      }</config>
+        <data xml:lang="x-default">{
+          "bgColor" : null,
+          "richText" : "&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;INFORMATION ABOUT GOODS COLLECTION&lt;/strong&gt;&lt;/p&gt;",
+          "align" : "center",
+          "styleClass" : "h1 text-center",
+          "customCss" : "color: #004290;\nfont-size:28px;\ntext-transform: uppercase;;"
+          "catalogID" : "headerKnuffmannCatalog",
+          "styleClass" : null
+        }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="0379d5934abd5fa5fafffa9f3d">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+          "visibility" : [ ]
+        }</config>
+                <data xml:lang="x-default">{
+          "product" : "upholstered-suit-001",
+          "displayRatings" : false
+        }</data>
+                <online-flag>true</online-flag>
+                <page-attributes/>
+            </content>
+
+    <content content-id="ac20d3df7c3cc04eaca354dbdd">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
         <config>{
   "visibility" : [ ]
 }</config>
@@ -1210,6 +1219,50 @@
   "align" : null,
   "styleClass" : "componentTitle",
   "customCss" : null
+  "product" : "upholstered-suit-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="0484816b036062745a66fd9b24">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="35eee7d3b377cbd488f53ccb45" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="057b9322250c116da79716754b">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="a0a65aba531f5285ca674fa8c1" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="05fa2c0993101d4ad27b8acf25">
+        <type>component.commerce_assets.campaignBanner</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bannerMessage" : "&lt;p&gt;&lt;strong&gt;Header Promo Banner Message&lt;/strong&gt;&lt;/p&gt;"
 }</data>
         <online-flag>true</online-flag>
         <page-attributes/>
@@ -1232,6 +1285,33 @@
       "width" : 260
     }
   }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="067f4c1cb727e8d5b943454847">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_9.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  }
+  },
+  "heading" : null,
+  "alt" : null
 }</data>
         <online-flag>true</online-flag>
         <page-attributes/>
@@ -1262,6 +1342,106 @@
         <online-flag>true</online-flag>
         <page-attributes/>
     </content>
+    
+    <content content-id="078614f83a4ad1b79c4514aa8e">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="b33ccbdaebc9e447828ab98f36" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="07a644ddeea451cd833d62ba4c">
+        <type>component.commerce_layouts.mobileGrid3r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="575108c8b4160a5cf5ba17be0c" type="component.commerce_layouts.mobileGrid3r1c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="b78c5acb1ee5f0deaeddb162b2" type="component.commerce_layouts.mobileGrid3r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="3817127697af599c99067fc206" type="component.commerce_layouts.mobileGrid3r1c.column2">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="086205068940717f6986c2fdb4">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h4&gt;Column 1&lt;/h4&gt;&lt;p&gt;Lorem Ipsum&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="0883a9760b3828181acc9d1af8">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_23.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 134
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="08953da22051aec93f7d7e75bb">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_banner.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 399,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : "Appointment booking FIliale"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
 
     <content content-id="3d144960139d488183b5517ea8">
         <type>component.commerce_assets.richText</type>
@@ -1278,6 +1458,37 @@
         <online-flag>true</online-flag>
         <page-attributes/>
     </content>
+    
+    <content content-id="089aee1a98d1a5ef5ffe13a8d6">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Image with text:&lt;/h4&gt;&lt;p&gt;-variant: image-only:&lt;/p&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_10.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
 
     <content content-id="3d537c35ddfc33c14bd266486e">
         <type>component.commerce_layouts.mobileGrid3r1c</type>
@@ -1285,6 +1496,67 @@
   "visibility" : [ ]
 }</config>
         <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="1c656990c281a72f1c4d1ff6ba" type="component.commerce_layouts.mobileGrid3r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="9a64b592214f7c6d87dcd8894a" type="component.commerce_layouts.mobileGrid3r1c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="36574987aeafd37293deb9fe2f" type="component.commerce_layouts.mobileGrid3r1c.column3">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="09bde534bbcce86f3288460ee6">
+        <type>component.commerce_layouts.mobileGrid2r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="478a6888b7429d6a1469d5252a" type="component.commerce_layouts.mobileGrid2r2c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="810af332471268127d830e199c" type="component.commerce_layouts.mobileGrid2r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="ca1b9a042b641877e7b9c91d80" type="component.commerce_layouts.mobileGrid2r2c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="7d6b0018c2ac91201602bd93ac" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="0ad7d7df7b2df2a9a83fe160d9">
+        <type>component.commerce_assets.popularCategory</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffman_1.jpg",
+    "focal_point" : {
+      "x" : 0.28,
+      "y" : 0.67
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "offset" : null,
+  "catDisplayName" : null,
+  "imagesize" : null,
+  "category" : "knuffmannallProducts"
+}</data>
         <online-flag>true</online-flag>
         <page-attributes/>
         <content-links>
@@ -2688,7 +2960,7 @@
         <page-attributes/>
     </content>
 
-    <content content-id="97cc6b5eb948238c1095d71225">
+    <content content-id="067f4c1cb727e8d5b943454847">
         <type>component.commerce_assets.editorialRichText</type>
         <config>{
   "visibility" : [ ]
@@ -3934,6 +4206,42 @@
         <online-flag>true</online-flag>
         <page-attributes/>
     </content>
+    <content content-id="a6f3a3a6fff3d7789fc1f5ccaa">
+      <type>component.commerce_assets.footerMenu</type>
+      <config>{
+"visibility" : [ ]
+}</config>
+      <data xml:lang="x-default">{
+"catalogID" : "footerKnuffmannCatalog",
+"styleClass" : null
+}</data>
+      <online-flag>true</online-flag>
+      <page-attributes/>
+  </content>
+
+    <content content-id="0b9114459008bfa5538f7a1c33">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h4&gt;Column 5&lt;/h4&gt;&lt;p&gt;Lorem Ipsum&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="0be9a1afb3826964ccca96559a">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+          "visibility" : [ ]
+        }</config>
+        <data xml:lang="x-default">{
+            "richText" : "&lt;h3&gt;Column 1&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.&lt;/p&gt;"
+        }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
 
     <content content-id="d2dfcdffc30c59b4286c59997b">
         <type>component.commerce_assets.richText</type>
@@ -4102,10 +4410,10 @@
     </content>
 
     <content content-id="dd3f00c732f32f5f323deb894a">
-        <type>component.commerce_layouts.mobileGrid2r2c</type>
-        <config>{
-  "visibility" : [ ]
-}</config>
+            <type>component.commerce_layouts.mobileGrid2r2c</type>
+            <config>{
+          "visibility" : [ ]
+        }</config>
         <data xml:lang="x-default">{ }</data>
         <online-flag>true</online-flag>
         <page-attributes/>
@@ -4120,6 +4428,24 @@
                 <position>0.0</position>
             </content-link>
             <content-link content-id="2a656aa0704b2e9aabb61072c9" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+       <content content-id="0d6c24bdb9b7aefb81a92f8971">
+        <type>component.commerce_layouts.mobileGrid2r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="76a8cf20061bed13fc19d4b604" type="component.commerce_layouts.mobileGrid2r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="6946c93c05b4736079efe073c4" type="component.commerce_layouts.mobileGrid2r1c.column2">
                 <position>0.0</position>
             </content-link>
         </content-links>
@@ -4147,7 +4473,7 @@
         <page-attributes/>
     </content>
 
-    <content content-id="e0405a2d8661db151761135653">
+<content content-id="e0405a2d8661db151761135653">
         <type>component.commerce_assets.imageAndText</type>
         <config>{
   "visibility" : [ ]
@@ -4173,7 +4499,46 @@
         <page-attributes/>
     </content>
 
-    <content content-id="e119b57a0caf6d2a4b515eede1">
+    <content content-id="0dd02c0d6c1cbf19d4a9408135">
+        <type>component.commerce_assets.footerMenu</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "catalogID" : "footerKnuffmannCatalog",
+  "styleClass" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+        <content content-id="0f0b904df1deab802df901b014">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_17.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+        <content content-id="e119b57a0caf6d2a4b515eede1">
         <type>component.commerce_assets.imageAndText</type>
         <config>{
   "visibility" : [ ]
@@ -4199,6 +4564,7 @@
         <page-attributes/>
     </content>
 
+
     <content content-id="e15605610ad01f7830053ecbe0">
         <type>component.commerce_assets.richText</type>
         <config>{
@@ -4207,6 +4573,22 @@
         <data xml:lang="x-default">{
   "bgColor" : null,
   "richText" : "&lt;h4&gt;1 Row x 1 Col ( Mobile, Desktop):&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="13c86b5467c983766f9712910e">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;YouTube Video:&lt;/h4&gt;",
   "align" : null,
   "styleClass" : "componentTitle",
   "customCss" : null
@@ -4311,6 +4693,28 @@
         <page-attributes/>
     </content>
 
+    <content content-id="13d50d47600cfa23860358af74">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_46.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1200,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
     <content content-id="e80200fd522db695c192bd032a">
         <type>component.commerce_layouts.mobileGrid2r1c</type>
         <config>{
@@ -4329,7 +4733,7 @@
         </content-links>
     </content>
 
-    <content content-id="e9884b412ef0fac37f35255f49">
+     <content content-id="e9884b412ef0fac37f35255f49">
         <type>component.commerce_assets.imageAndText</type>
         <config>{
   "visibility" : [ ]
@@ -4350,6 +4754,72 @@
   },
   "heading" : null,
   "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+    <content content-id="14c40b2da91bb2fba7b4ac0c37">
+        <type>component.commerce_layouts.popularCategories</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "textHeadline" : "Popular Categories Layout Heading"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="aa0d20195eb5da9c1c7848867f" type="component.commerce_layouts.popularCategories.categories">
+                <position>1.0</position>
+            </content-link>
+            <content-link content-id="0ad7d7df7b2df2a9a83fe160d9" type="component.commerce_layouts.popularCategories.categories">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="8d829fc0052e2461f95f30de60" type="component.commerce_layouts.popularCategories.categories">
+                <position>4.0</position>
+            </content-link>
+            <content-link content-id="c65444fdd6732c87f24a5b3bfe" type="component.commerce_layouts.popularCategories.categories">
+                <position>2.0</position>
+            </content-link>
+            <content-link content-id="c60addcfaa723b984731c70b1e" type="component.commerce_layouts.popularCategories.categories">
+                <position>3.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="168357d7ce2da6198d48e0c806">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;2 Rows x 3 Cols (Mobile), 1 Row x 6 Cols (Desktop):&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="17b41276edd778ecb0adde1014">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_45.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 187,
+      "width" : 250
+    }
+  }
 }</data>
         <online-flag>true</online-flag>
         <page-attributes/>
@@ -4396,10 +4866,36 @@
         <online-flag>true</online-flag>
         <page-attributes/>
     </content>
+    
+    <content content-id="17dae0c22ed6cf8cd4e8495e45">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_30.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 140
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
 
     <content content-id="ec2fc9ed52acdc05d81301c8fa">
-        <type>component.commerce_layouts.grid1r1cMainCentral</type>
-        <config>{
+    <type>component.commerce_layouts.grid1r1cMainCentral</type>
+    <config>{
   "visibility" : [ ]
 }</config>
         <data xml:lang="x-default">{ }</data>
@@ -4412,7 +4908,22 @@
         </content-links>
     </content>
 
-    <content content-id="ecaac1bd4942d32fe664fc3c41">
+        <content content-id="181e0e89d1c3c06e3c7d0f6c3f">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="7fef2df7125d85ffdb352ea2ce" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+<content content-id="ecaac1bd4942d32fe664fc3c41">
         <type>component.commerce_assets.mainBanner</type>
         <config>{
   "visibility" : [ ]
@@ -4436,7 +4947,3728 @@
         <page-attributes/>
     </content>
 
-    <content content-id="efcc7063c777f3a44a5476207f">
+    <content content-id="1a5dd009c7dc33363e67833587">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 2&lt;/h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="1c072797ade13d6bba16d8b92a">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "modern-woven-carpet-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="1c1e7d49d8e0092cbabe18c9c2">
+        <type>component.commerce_layouts.mobileGrid2r3c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="086205068940717f6986c2fdb4" type="component.commerce_layouts.mobileGrid2r3c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="6ee360c4c7e0ce2a705a6f080a" type="component.commerce_layouts.mobileGrid2r3c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="6cf5304f00e58a7e34ca7ae52b" type="component.commerce_layouts.mobileGrid2r3c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="4f7f53c32a294a4d64d0d1fe7b" type="component.commerce_layouts.mobileGrid2r3c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="0b9114459008bfa5538f7a1c33" type="component.commerce_layouts.mobileGrid2r3c.column5">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="85dad3776e3840ded8848d1254" type="component.commerce_layouts.mobileGrid2r3c.column6">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="1dce49c6aafac54db304db875b">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Dynamic Product Detail Layout:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="1de3dfa72d1ec7c53ccfd63610">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "upholstered-suit-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="1dfbe7ce8274ce2f70ae34a5d7">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;3 Rows x 2 Cols (Mobile), 2 Row x 3 Cols (Desktop):&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="22d1e3a9aa0e1f2ad32d343674">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_11.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="239b6cff0c0160b9ca162864f7">
+        <type>component.commerce_layouts.mobileGrid2r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="6b8603cde4ab99ef551cb63de3" type="component.commerce_layouts.mobileGrid2r1c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="76525d22642fa8a093c02fedaf" type="component.commerce_layouts.mobileGrid2r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="2648bd3fe9a5090f0b3aa01fb1">
+        <type>component.commerce_layouts.mobileGrid3r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="ab54f08116621b21a117af1c56" type="component.commerce_layouts.mobileGrid3r1c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="1c072797ade13d6bba16d8b92a" type="component.commerce_layouts.mobileGrid3r1c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="dc49b2884c9f3d2a5fb7a2ee08" type="component.commerce_layouts.mobileGrid3r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="297b3412b9f4bc4c0848c0b9f5">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_18.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="2a211aa384c654544812cd15ee">
+        <type>component.commerce_assets.category</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "applyImageShade" : false,
+  "customCategoryName1" : "Testlink#1",
+  "customCategoryName5" : null,
+  "category12" : null,
+  "customCategoryName4" : "Testlink#4",
+  "customCategoryName10" : null,
+  "category11" : null,
+  "customCategoryName3" : "Testlink#3",
+  "category10" : null,
+  "customCategoryName11" : null,
+  "customCategoryName2" : "Testlink#2",
+  "customCategoryName12" : null,
+  "customCategoryName9" : null,
+  "customCategoryName8" : null,
+  "customCategoryName7" : null,
+  "changeTextColor" : true,
+  "customCategoryName6" : null,
+  "category2" : "knuffmannsales",
+  "image" : {
+    "path" : "store_knuffmann_banner_1.jpg",
+    "focal_point" : {
+      "x" : 0.57,
+      "y" : 0.32
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "category3" : "knuffmannsales",
+  "category4" : "knuffmannsales",
+  "category5" : null,
+  "category1" : "knuffmannsales",
+  "category6" : null,
+  "textHeadline" : "&lt;h1&gt;Link Banner Headline&lt;/h1&gt;",
+  "category7" : null,
+  "category8" : null,
+  "category9" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="2aabd5aab543ceb3c13719b517">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="a689a64ba85069f389fb00ebd0" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="2b507a3c3e0642e50a9cfb839f">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;2 Rows x 1 Col (Mobile), 1 Row x 2 Cols (Desktop):&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="2c430c34560af887f758bad777">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;3 Rows x 1 Cols (Mobile), 1 Row x 3 Cols (Desktop):&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="2e0c3e271bfa81733b7833f8ce">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="d150577f319d44379759997130" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="2eb8d5722a5c10fe93efb055be">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : "$url('Search-Show', 'cgid', 'knuffmannknsat')$",
+  "ITCText" : "&lt;p&gt;Text below image...&lt;/p&gt;",
+  "image" : {
+    "path" : "knuffman_15.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="30b2959c0740b86931ac9ef6b0">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : "$url('Search-Show', 'cgid', 'knuffmannknsat')$",
+  "ITCText" : "&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. &lt;/p&gt;",
+  "image" : {
+    "path" : "knuffman_17.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : "&lt;h2&gt;Overlay&lt;/h2&gt;",
+  "alt" : "Alt text"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="316349dc92a244ba7a644a8bf3">
+        <type>component.commerce_layouts.mobileGrid2r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="195c963d91d0ec4466ab191e4e" type="component.commerce_layouts.mobileGrid2r2c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="0883a9760b3828181acc9d1af8" type="component.commerce_layouts.mobileGrid2r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="75c467e66287a4b5efe14c5fca" type="component.commerce_layouts.mobileGrid2r2c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="6d1bb9a193715d1db91e60ce5b" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="31c3ac38f0644131e014187793">
+        <type>component.dynamic.productDetail</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "corner-set-001"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="35eee7d3b377cbd488f53ccb45">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="2aabd5aab543ceb3c13719b517" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="9246657b49acea0c6dd6dfa22f" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>1.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="3817127697af599c99067fc206">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffmann_46.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1200,
+      "width" : 1600
+    }
+  },
+  "heading" : "&lt;h3&gt;Column 2&lt;/h3&gt;",
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="387531699764d969b8bf3594ed">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Google Map:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="388e424fb92109d0aa4144f819">
+        <type>component.commerce_layouts.mobileGrid3r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="632c09160889ab7b1c11fd6d70" type="component.commerce_layouts.mobileGrid3r2c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="ede134d2436b447383b3abb5b7" type="component.commerce_layouts.mobileGrid3r2c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="524b45aa1b339a6f728ee9a314" type="component.commerce_layouts.mobileGrid3r2c.column5">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="7f145bbbb547f2a544f51c936c" type="component.commerce_layouts.mobileGrid3r2c.column6">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="1a5dd009c7dc33363e67833587" type="component.commerce_layouts.mobileGrid3r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="75b6bad81a88cbb1bd7cdf4907" type="component.commerce_layouts.mobileGrid3r2c.column4">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="3a6bbb0e190aec6df5f8956bd7">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "modern-woven-carpet-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="3aa743c3a034b388e6bbc69056">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "upholstered-suit-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="3b9e519921eef95eeeeb8a091f">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 3&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="3c4d08a601cf70d46c5c39bc81">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "corner-set-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="3c9a25efc6745916605273356e">
+        <type>component.commerce_assets.shopTheLook</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "modern-woven-carpet-001",
+  "priceDisplay" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="3d144960139d488183b5517ea8">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Image with text:&lt;/h4&gt;&lt;p&gt;-variant: image-only:&lt;/p&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="3d537c35ddfc33c14bd266486e">
+        <type>component.commerce_layouts.mobileGrid3r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="f4cd433930e5b3111453e45633" type="component.commerce_layouts.mobileGrid3r1c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="9b431ed7ddee1960634785af99" type="component.commerce_layouts.mobileGrid3r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="9b49a31d8714348260a9e728f7" type="component.commerce_layouts.mobileGrid3r1c.column3">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="3dd247f78c189fdafc7005dcc3">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "corner-set-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="44f02c83895aafb9b9fc7403c3">
+        <type>component.dynamic.dynamicCategoryBanner</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "large.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 715,
+      "width" : 2783
+    }
+  },
+  "product" : null,
+  "heading" : "This is the Banner Text",
+  "category" : "knuffmannallProducts"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="45047ce8825d5967b911b9901c">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_46.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1200,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="4563e0a87bb0645cd15c5ec3ee">
+        <type>component.commerce_assets.shopTheLook</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "upholstered-suit-001",
+  "priceDisplay" : true
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="46a617e3a964569481032e7fa5">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;p&gt;Dear customers, until further notice our changed opening times apply in the central warehouse in Krefeld.&amp;nbsp;The collection of your ordered furniture is possible Monday - Friday from 1 p.m. to 6 p.m. &amp;amp; Saturday from 10 a.m. to 2 p.m.&lt;/p&gt;",
+  "align" : "left",
+  "styleClass" : null,
+  "customCss" : "font-size: 16px;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="478a6888b7429d6a1469d5252a">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_46.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1200,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="48a2a45f5ace43358f561fbba8">
+        <type>component.commerce_assets.headerMenu</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "catalogID" : "headerKnuffmannCatalog",
+  "styleClass" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="49bd7a69d0597c6d9618e27082">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="4ce8ccada2b21952eb4418e065" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="49fd52c6ade006841e60d3942e">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Image with text&lt;/h4&gt;&lt;p&gt;-variant: image-only LINKED&lt;/p&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="4a3e939dbcf8eac08fbce36f0f">
+        <type>component.commerce_layouts.mobileGrid2r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="81c5cda320b8d78123b0cdfa73" type="component.commerce_layouts.mobileGrid2r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="4f5ba2e8fd8f0752ab073b9255" type="component.commerce_layouts.mobileGrid2r1c.column2">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="4b21eb6d9233efd1c5bad6a220">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Carousel:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="4bf8b9b818827045f14231a094">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 2&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="4c51f84a2e48511cfc7b6b2174">
+        <type>component.commerce_assets.popularCategory</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_45.jpg",
+    "focal_point" : {
+      "x" : 0.78,
+      "y" : 0.28
+    },
+    "meta_data" : {
+      "height" : 187,
+      "width" : 250
+    }
+  },
+  "offset" : null,
+  "catDisplayName" : "Category 2",
+  "imagesize" : null,
+  "category" : "knuffmannsales"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="4c6a87fe0c5d7c72e57c3c284b">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Product Tile:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="4ce8ccada2b21952eb4418e065">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : "$url('Search-Show', 'cgid', 'knuffmannknsat')$",
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_16.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 399,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="4db6c5fd83be4837c816384aa8">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_13.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 200,
+      "width" : 540
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="4ee1ca5529a473051a06ad873f">
+        <type>component.commerce_layouts.mobileGrid2r3c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="d4f77036a2fb5689932cb269a7" type="component.commerce_layouts.mobileGrid2r3c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="3a6bbb0e190aec6df5f8956bd7" type="component.commerce_layouts.mobileGrid2r3c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="cfa40cdd339dce639a4ae50116" type="component.commerce_layouts.mobileGrid2r3c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="c6bbb7ad35f8455a233016c033" type="component.commerce_layouts.mobileGrid2r3c.column5">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="1de3dfa72d1ec7c53ccfd63610" type="component.commerce_layouts.mobileGrid2r3c.column6">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="a52c82e0733ed2c821f25a35c1" type="component.commerce_layouts.mobileGrid2r3c.column3">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="4ef3d4cbd759bdb6d66446286c">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="8aef19891522946bdee01cc3e2" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="4f5ba2e8fd8f0752ab073b9255">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 2&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="4f7f53c32a294a4d64d0d1fe7b">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h4&gt;Column 3&lt;/h4&gt;&lt;p&gt;Lorem Ipsum&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="5213fc952fca4a4808ab6babde">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;2 Rows x 2 Cols (Mobile), 1 Row x 4 Cols (Desktop):&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="5239398ce6f80c556dc4c15b2f">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_46.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1200,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="524b45aa1b339a6f728ee9a314">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 5&lt;/h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="5360aa09bd49e9e8a8005cdfa9">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_20.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 140
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="5414cd43df45eefdf4e6d5da10">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_23.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 134
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="557b796835c87e4c5d9bd4d987">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "modern-woven-carpet-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="575108c8b4160a5cf5ba17be0c">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 3&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="57d262918c452af47e405bfabf">
+        <type>component.commerce_assets.popularCategory</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffman_10.jpg",
+    "focal_point" : {
+      "x" : 0.44,
+      "y" : 0.34
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "offset" : null,
+  "catDisplayName" : "Category 3",
+  "imagesize" : null,
+  "category" : "knuffmannsales"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="5e0b2754283d4353d9d5f775c1">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="96163dc6d57910d2d774ca10b0" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="5ea3f2cfab9e6cb3b2cfdee943">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 1&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="5f91a8a13f9b60af6a09171937">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_6.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="607baa2b1142bf6463c5912849">
+        <type>component.commerce_layouts.carousel</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "xsCarouselIndicators" : false,
+  "smCarouselControls" : true,
+  "mdCarouselIndicators" : true,
+  "xsCarouselControls" : true,
+  "smCarouselIndicators" : false,
+  "xsCarouselSlidesToDisplay" : 1,
+  "mdCarouselSlidesToDisplay" : 3,
+  "textHeadline" : null,
+  "smCarouselSlidesToDisplay" : 2
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="3dd247f78c189fdafc7005dcc3" type="component.commerce_layouts.carousel.slides">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="0379d5934abd5fa5fafffa9f3d" type="component.commerce_layouts.carousel.slides">
+                <position>2.0</position>
+            </content-link>
+            <content-link content-id="e7aa92727c1488333dcfadeefc" type="component.commerce_layouts.carousel.slides">
+                <position>1.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="61665fcaa472ecbe2443dfe022">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "corner-set-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="632c09160889ab7b1c11fd6d70">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 1&lt;/h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="6946c93c05b4736079efe073c4">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "small.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 720,
+      "width" : 1280
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="69b7cb04ef51b1f312a5d09304">
+        <type>component.dynamic.productDetail</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="6b8603cde4ab99ef551cb63de3">
+        <type>component.commerce_assets.shopTheLook</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "corner-set-001",
+  "priceDisplay" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="6cf5304f00e58a7e34ca7ae52b">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h4&gt;Column 2&lt;/h4&gt;&lt;p&gt;Lorem Ipsum&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="6d1bb9a193715d1db91e60ce5b">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_4.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="6ee360c4c7e0ce2a705a6f080a">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h4&gt;Column 4&lt;/h4&gt;&lt;p&gt;Lorem Ipsum&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="6fb5d9911b9f3ef6af2b5fd50c">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_18.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="73aaf17fb8a3d2486335943fa3">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Link Banner:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : "margin-top: 5px;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="75b6bad81a88cbb1bd7cdf4907">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 4&lt;/h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="75c467e66287a4b5efe14c5fca">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_3.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="76525d22642fa8a093c02fedaf">
+        <type>component.commerce_assets.shopTheLook</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "corner-set-001",
+  "priceDisplay" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="76a8cf20061bed13fc19d4b604">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "medium.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1080,
+      "width" : 1080
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="7729955904e5f9b232b5f5d524">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_12.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="7888f29e0a4fe8cc3d92ce0a79">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;p&gt;Knuffmann has been a guarantee for high-quality furniture and home accessories for more than 100 years.&amp;nbsp;With us you will find a huge range of furniture from well-known&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/marken/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"brand manufacturers\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;brand manufacturers&lt;/u&gt;&lt;/a&gt;&amp;nbsp;such as Hülsta, Rolf Benz or Musterring as well as our own brands Mondo, Vito and Valmondo,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/wohnideen-und-inspiration/kueche/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"kitchens\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"&gt;&lt;u&gt;kitchens&lt;/u&gt;&lt;/a&gt;&amp;nbsp;from Nobilia or Nolte, supplemented by an extensive range of&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/dekoartikel-und-accessoires/wohnaccessoires/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"home accessories\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;home accessories&lt;/u&gt;&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/haushaltsartikel/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"housewares\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;housewares&lt;/u&gt;&lt;/a&gt;&amp;nbsp;for every furnishing style.&amp;nbsp;Discover many new&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/wohnzimmer/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"living\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;living&lt;/u&gt;&lt;/a&gt;&amp;nbsp;ideas for your&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/wohnzimmer/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"living room\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;living room&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/speisezimmer/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"dining room\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;dining room&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/klein-dielenmoebel/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"hallway\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;hallway&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/schlafzimmer/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"bedroom\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;bedroom&lt;/u&gt;&lt;/a&gt;&amp;nbsp;or&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/bad/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"bathroom\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"&gt;&lt;u&gt;bathroom&lt;/u&gt;&lt;/a&gt;&amp;nbsp;and be inspired by the latest living trends in our exhibitions.&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;Whatever you need, you are guaranteed to find it in our branches.&amp;nbsp;From the&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/wohnzimmer/wohnwaende-und-beimoebel/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"wall unit\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;wall unit&lt;/u&gt;&lt;/a&gt;&amp;nbsp;to&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/speisezimmer/vitrinen-sideboards/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"showcases, sideboards\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;showcases, sideboards&lt;/u&gt;&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/klein-und-dielenmoebel/regale/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"shelves\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;shelves&lt;/u&gt;&lt;/a&gt;&amp;nbsp;to&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/esszimmer/tische/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"tables\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;tables&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/esszimmer/stuehle-und-hocker/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"chairs\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;chairs&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/esszimmer/baenke-und-eckbaenke/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"benches\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;benches&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/schlafzimmer/kleiderschraenke/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"cupboards\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;cupboards&lt;/u&gt;&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/schlafzimmer/betten/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"beds\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;beds&lt;/u&gt;&lt;/a&gt;&amp;nbsp;, we offer you the latest furniture trends as well as versatile small pieces of furniture of the highest quality.&amp;nbsp;All of our products impress with their first-class design and offer you plenty of functionality and storage space.&amp;nbsp;With our modern kitchens, supplemented by kitchen and household accessories, amateur cooks get their money's worth.&amp;nbsp;Stylish&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/dekoartikel-und-accessoires/wohnaccessoires/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"home accessories\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;home accessories&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/leuchten-und-lampen/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"lights\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;lights&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&lt;a href=\"https://www.knuffmann.de/produkte/moebel/badmoebel/badaccessoires/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"Bath accessories\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;Bath accessories&lt;/u&gt;&lt;/a&gt;&amp;nbsp;, home textiles,&lt;a href=\"https://www.knuffmann.de/produkte/dekoartikel-und-accessoires/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"decorative items\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;&amp;nbsp;decorative items&lt;/u&gt;&lt;/a&gt;&amp;nbsp;and&lt;a href=\"https://www.knuffmann.de/produkte/teppiche/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"rugs\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;&amp;nbsp;rugs&lt;/u&gt;&lt;/a&gt;&amp;nbsp;round out our extensive range.&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;Our team of experienced consultants and furnishing experts also supports you in planning and realizing your dream home and offers you comprehensive&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/service/uebersicht/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"customer service\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;customer service&lt;/u&gt;&lt;/a&gt;&amp;nbsp;.&amp;nbsp;Get advice on living space and kitchen design in one of our Knuffmann furniture stores or kitchen markets and take advantage of our&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/service/finanzierung/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"financing\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;financing&lt;/u&gt;&lt;/a&gt;&amp;nbsp;offers&amp;nbsp;as well as the professional assembly and assembly service.&amp;nbsp;The inspiring flair in our furniture stores turns your shopping at Knuffmann into a fun shopping experience.&amp;nbsp;If you want to linger a little longer, you have the opportunity&amp;nbsp;&amp;nbsp;to let&amp;nbsp;yourself be&amp;nbsp;pampered with culinary delights&amp;nbsp;in our&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/service/la-cucina-restaurant/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"restaurant\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;restaurant&lt;/u&gt;&lt;/a&gt;&amp;nbsp;.&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;We are looking forward to your visit!&amp;nbsp;You can find your nearest Knuffmann branch&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/ueber-uns/filialen/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"here\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;&amp;nbsp;.&lt;/p&gt;",
+  "align" : "center",
+  "styleClass" : null,
+  "customCss" : "font-size: 16px"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="793db49c34f6124e79435486e9">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_5.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="7abc103f09f215b3319a3a5688">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="ac20d3df7c3cc04eaca354dbdd" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="7c09d60948d8058f37a950e104">
+        <type>component.commerce_assets.shopTheLook</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "upholstered-suit-001",
+  "priceDisplay" : true
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="7d6b0018c2ac91201602bd93ac">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_44.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1068,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="7f145bbbb547f2a544f51c936c">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 6&lt;/h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="7fef2df7125d85ffdb352ea2ce">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="d2dfcdffc30c59b4286c59997b" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="7888f29e0a4fe8cc3d92ce0a79" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>1.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="810af332471268127d830e199c">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "small.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 720,
+      "width" : 1280
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="8148724501c657b9c410bc1617">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="30b2959c0740b86931ac9ef6b0" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="81978db22792c028e426a4d9dc">
+        <type>component.commerce_layouts.carousel</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "xsCarouselIndicators" : true,
+  "smCarouselControls" : true,
+  "mdCarouselIndicators" : true,
+  "xsCarouselControls" : true,
+  "smCarouselIndicators" : true,
+  "xsCarouselSlidesToDisplay" : 1,
+  "mdCarouselSlidesToDisplay" : 1,
+  "textHeadline" : null,
+  "smCarouselSlidesToDisplay" : 1
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="cdf8f78dd85ca24422d77c8c79" type="component.commerce_layouts.carousel.slides">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="c07362ff30b682a09fdb4cd007" type="component.commerce_layouts.carousel.slides">
+                <position>1.0</position>
+            </content-link>
+            <content-link content-id="0f0b904df1deab802df901b014" type="component.commerce_layouts.carousel.slides">
+                <position>2.0</position>
+            </content-link>
+            <content-link content-id="6fb5d9911b9f3ef6af2b5fd50c" type="component.commerce_layouts.carousel.slides">
+                <position>3.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="81c5cda320b8d78123b0cdfa73">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 1&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="8286c0c69545f2e5d7370204aa">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Promotional Content Tile / Banner Component:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="85dad3776e3840ded8848d1254">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h4&gt;Column 6&lt;/h4&gt;&lt;p&gt;Lorem Ipsum&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="85e1193fa2f06c4c442ef24b5b">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="b6945a96133fa8d22b3b32ce90" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="86366cc33ccf04959bf5e4ce6d">
+        <type>component.commerce_layouts.mobileGrid2r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="b7926b8b12d5ef3b213c372253" type="component.commerce_layouts.mobileGrid2r2c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="61665fcaa472ecbe2443dfe022" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="3aa743c3a034b388e6bbc69056" type="component.commerce_layouts.mobileGrid2r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="a8055af893da9d4c92c96e937b" type="component.commerce_layouts.mobileGrid2r2c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="86a377b0b2d6dc9d7583f46a52">
+        <type>component.commerce_assets.gMap</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "devmode" : true,
+  "apikey" : "AIzaSyDMSBoezyepgzqyicfsAq3dCmyFqMjhOi8",
+  "marker_route_link" : false,
+  "latitude" : "6.54307118836315",
+  "zoom" : null,
+  "marker_icon" : "logo_knuffmann.jpg",
+  "marker_text" : "&lt;p&gt;Furniture Store&lt;/p&gt;",
+  "styleClass" : null,
+  "marker_longitude" : "51.34761062588418",
+  "marker_center" : true,
+  "marker_route_text" : "Knuffmann Furniture Store",
+  "longitude" : "51.34761062588418",
+  "height" : 600,
+  "marker_latitude" : "6.54307118836315"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="8813849162831215d4437fc2b7">
+        <type>component.commerce_assets.shopTheLook</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "modern-woven-carpet-001",
+  "priceDisplay" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="8aef19891522946bdee01cc3e2">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "store_knuffmann_banner.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="8baea4d932ccb16d0c4faf2eae">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="2a211aa384c654544812cd15ee" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="8d829fc0052e2461f95f30de60">
+        <type>component.commerce_assets.popularCategory</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffman_14.jpg",
+    "focal_point" : {
+      "x" : 0.24,
+      "y" : 0.56
+    },
+    "meta_data" : {
+      "height" : 200,
+      "width" : 540
+    }
+  },
+  "offset" : null,
+  "catDisplayName" : null,
+  "imagesize" : null,
+  "category" : "knuffmannknsat"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="90dc28ab30963f1c690564b269">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_17.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="91ec3e880eb61fbcaf62616010">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_24.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 44,
+      "width" : 133
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="91fc2cd630fe7ab7da1b3c2183">
+        <type>component.einstein.einsteinCarousel</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "xsCarouselIndicators" : false,
+  "smCarouselControls" : false,
+  "mdCarouselIndicators" : false,
+  "count" : "3",
+  "xsCarouselControls" : false,
+  "smCarouselIndicators" : false,
+  "displayRatings" : false,
+  "xsCarouselSlidesToDisplay" : 1,
+  "mdCarouselSlidesToDisplay" : 3,
+  "textHeadline" : null,
+  "recommender" : {
+    " " : " "
+  },
+  "smCarouselSlidesToDisplay" : 2
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="9246657b49acea0c6dd6dfa22f">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="46a617e3a964569481032e7fa5" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="935292848c942999d502b3abfa">
+        <type>component.dynamic.productList</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "displayFormat" : {
+    "value" : "row"
+  },
+  "category" : "knuffmannallProducts"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="937fcbd2b199a388f93b27c89a">
+        <type>component.commerce_layouts.mobileGrid2r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="a7fa415e471421bd0ba70dfb16" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="b1133a39619d8c4d555df16fd8" type="component.commerce_layouts.mobileGrid2r2c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="4bf8b9b818827045f14231a094" type="component.commerce_layouts.mobileGrid2r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="3b9e519921eef95eeeeb8a091f" type="component.commerce_layouts.mobileGrid2r2c.column3">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="952e0d14448ed11e46310de2f9">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_46.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1200,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="9587860a7e238628d6a58badbf">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="0be9a1afb3826964ccca96559a" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="96163dc6d57910d2d774ca10b0">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "large.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1080,
+      "width" : 1920
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="9668437ec9be4b0b9af176ab5c">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : "#A3B4BF",
+  "richText" : "&lt;h4&gt;This custom component...&lt;/h4&gt;&lt;p&gt;...is more customizable regarding style than the default text-component because you can add inline css, append a css class or define a background color. &lt;strong&gt;For example the text in this box has a customized, smaller line-height!! &lt;/strong&gt;Diese Website enthält Verknüpfungen (externe Links) zu Webseiten von Dritten, auf die deren Inhalt der Anbieter dieser Website keinen Einfluss hat. Diese Webseiten unterliegen der Haftung der jeweiligen Betreiber. Die verlinkten Webseiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft, rechtswidrige Inhalte waren nicht erkennbar. Bei Bekanntwerden einer entsprechenden Rechtsverletzung entfernen wir derartige Links umgehend.&lt;/p&gt;",
+  "align" : "center",
+  "styleClass" : null,
+  "customCss" : "border: 5px solid #004290; \ncolor: black;\npadding: 1rem;\nline-height:1;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="98fa9befe767e5842fb03dfda8">
+        <type>component.commerce_layouts.mobileGrid2r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="f68c35f70e697cf2f810dbf764" type="component.commerce_layouts.mobileGrid2r2c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="5f91a8a13f9b60af6a09171937" type="component.commerce_layouts.mobileGrid2r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="e0405a2d8661db151761135653" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="793db49c34f6124e79435486e9" type="component.commerce_layouts.mobileGrid2r2c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="9a3161229149c5c460c8252be0">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="81978db22792c028e426a4d9dc" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="9b431ed7ddee1960634785af99">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_41.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 702,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="9b49a31d8714348260a9e728f7">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_43.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 756,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="9bc05194c32d8b95e17efa90b6">
+        <type>component.commerce_layouts.mobileGrid3r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="8813849162831215d4437fc2b7" type="component.commerce_layouts.mobileGrid3r1c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="a3714a28eaa7a682e0d9afcf2c" type="component.commerce_layouts.mobileGrid3r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="3c9a25efc6745916605273356e" type="component.commerce_layouts.mobileGrid3r1c.column2">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="9d3ab070fdb7f73cfda669eeac">
+        <type>component.commerce_layouts.mobileGrid2r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="089aee1a98d1a5ef5ffe13a8d6" type="component.commerce_layouts.mobileGrid2r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="067f4c1cb727e8d5b943454847" type="component.commerce_layouts.mobileGrid2r2c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="22d1e3a9aa0e1f2ad32d343674" type="component.commerce_layouts.mobileGrid2r2c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="7729955904e5f9b232b5f5d524" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="9d8ed59de34396196ad740b396">
+        <type>component.commerce_assets.mainBanner</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "large.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 715,
+      "width" : 2783
+    }
+  },
+  "heading" : "&lt;h4&gt;text overlay&lt;/h4&gt;",
+  "categoryLink" : "knuffmannsales"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="a09acb4ab5db2191942dae89bd">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_41.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 702,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="a0a65aba531f5285ca674fa8c1">
+        <type>component.commerce_layouts.mobileGrid2r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="0636b12ef6bc840c5d737f3cec" type="component.commerce_layouts.mobileGrid2r1c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="4db6c5fd83be4837c816384aa8" type="component.commerce_layouts.mobileGrid2r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="a2e0472134123a0e9c40d5d027">
+        <type>component.commerce_layouts.mobileGrid2r3c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="a09acb4ab5db2191942dae89bd" type="component.commerce_layouts.mobileGrid2r3c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="dfe1b243803d3d5d066772f147" type="component.commerce_layouts.mobileGrid2r3c.column6">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="f1d4b04a67e348d4a374d36bed" type="component.commerce_layouts.mobileGrid2r3c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="ac0452744e5a36496dfb4e104e" type="component.commerce_layouts.mobileGrid2r3c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="f752863c339556d056abd77b94" type="component.commerce_layouts.mobileGrid2r3c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="17b41276edd778ecb0adde1014" type="component.commerce_layouts.mobileGrid2r3c.column5">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="a3714a28eaa7a682e0d9afcf2c">
+        <type>component.commerce_assets.shopTheLook</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "modern-woven-carpet-001",
+  "priceDisplay" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="a52c82e0733ed2c821f25a35c1">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "modern-woven-carpet-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="a6580f9954290fa31ffcd20b62">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;p&gt;This text should be blue as we added the appropriate inline style within this component&lt;/p&gt;",
+  "align" : null,
+  "styleClass" : null,
+  "customCss" : "color: #004290;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="a7fa415e471421bd0ba70dfb16">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 4&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. &lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="a8055af893da9d4c92c96e937b">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "upholstered-suit-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="aa0d20195eb5da9c1c7848867f">
+        <type>component.commerce_assets.popularCategory</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffman_16.jpg",
+    "focal_point" : {
+      "x" : 0.41,
+      "y" : 0.55
+    },
+    "meta_data" : {
+      "height" : 399,
+      "width" : 1100
+    }
+  },
+  "offset" : null,
+  "catDisplayName" : null,
+  "imagesize" : null,
+  "category" : "knuffmannsales"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="aa53b28875219e5c5455db80e4">
+        <type>component.commerce_assets.popularCategory</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffman_3.jpg",
+    "focal_point" : {
+      "x" : 0.24,
+      "y" : 0.58
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "offset" : null,
+  "catDisplayName" : "Category 4",
+  "imagesize" : null,
+  "category" : "knuffmannsales"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="ab54f08116621b21a117af1c56">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "upholstered-suit-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="ac0452744e5a36496dfb4e104e">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_43.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 756,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="ac20d3df7c3cc04eaca354dbdd">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="98fa9befe767e5842fb03dfda8" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>2.0</position>
+            </content-link>
+            <content-link content-id="316349dc92a244ba7a644a8bf3" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="9d3ab070fdb7f73cfda669eeac" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>1.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="ac2cec8415ac4a1bd52e079752">
+        <type>component.commerce_layouts.mobileGrid2r3c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="c95dfe51a73a402514a52a7dcb" type="component.commerce_layouts.mobileGrid2r3c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="ca4e27455ebf023cdcbdc40bde" type="component.commerce_layouts.mobileGrid2r3c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="faf14dd8669c7d2bfc95496814" type="component.commerce_layouts.mobileGrid2r3c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="c72e479055167bd0244e94851c" type="component.commerce_layouts.mobileGrid2r3c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="17dae0c22ed6cf8cd4e8495e45" type="component.commerce_layouts.mobileGrid2r3c.column5">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="f48f68a4f881896204cfc42e74" type="component.commerce_layouts.mobileGrid2r3c.column6">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="account.editpassword.seo">
+        <display-name xml:lang="x-default">Account-EditPassword</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+        <folder-links>
+            <classification-link folder-id="root"/>
+        </folder-links>
+    </content>
+
+    <content content-id="account.editprofile.seo">
+        <display-name xml:lang="x-default">Account-EditProfile</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="account.passwordreset.seo">
+        <display-name xml:lang="x-default">Account-PasswordReset</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="account.setnewpassword.seo">
+        <display-name xml:lang="x-default">Account-SetNewPassword</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="account.show.seo">
+        <display-name xml:lang="x-default">Account-Show</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="address.addaddress.seo">
+        <display-name xml:lang="x-default">Address-AddAddress</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="address.editaddress.seo">
+        <display-name xml:lang="x-default">Address-EditAddress</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="ae2f867c4960616e2368b6cb0e">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_46.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1200,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="b03812044d567bd1e130895a83">
+        <type>component.commerce_assets.shopTheLook</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "upholstered-suit-001",
+  "priceDisplay" : true
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="b1133a39619d8c4d555df16fd8">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 1&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod temporada.&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="b212d88e0d731516520c0fb4e4">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;p&gt;our&lt;strong&gt; top brands&lt;/strong&gt;&lt;/p&gt;",
+  "align" : "center",
+  "styleClass" : null,
+  "customCss" : "color: #004290;\nfont-size: 28px;\ntext-transform: uppercase;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="b33ccbdaebc9e447828ab98f36">
+        <type>component.commerce_assets.productListTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : "$url('Page-Show', 'cid', 'homepage')$",
+  "ITCText" : "&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.&lt;/p&gt;",
+  "image" : {
+    "path" : "store_knuffmann_banner.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : "&lt;p&gt;Text Overlay&lt;/p&gt;",
+  "alt" : "The Alt Text"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="b3669e1c0ba55a802f3b41baaf">
+        <type>component.commerce_layouts.mobileGridLookBook</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="5239398ce6f80c556dc4c15b2f" type="component.commerce_layouts.mobileGridLookBook.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="ae2f867c4960616e2368b6cb0e" type="component.commerce_layouts.mobileGridLookBook.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="13d50d47600cfa23860358af74" type="component.commerce_layouts.mobileGridLookBook.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="952e0d14448ed11e46310de2f9" type="component.commerce_layouts.mobileGridLookBook.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="e2c5173e7b4c9aa6b76e49398d" type="component.commerce_layouts.mobileGridLookBook.column5">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="45047ce8825d5967b911b9901c" type="component.commerce_layouts.mobileGridLookBook.column6">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="b3e2926b7cca148557e31bed4a">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Image with text&lt;/h4&gt;&lt;p&gt;-variant: with text below image:&lt;/p&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="b411797f715997d118b7a93331">
+        <display-name xml:lang="x-default">Product Listing Layout</display-name>
+        <type>component.dynamic.productList</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "displayFormat" : null,
+  "category" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="b6945a96133fa8d22b3b32ce90">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="b212d88e0d731516520c0fb4e4" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="e402c6341ea8346bcbf7c9e2d0" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>1.0</position>
+            </content-link>
+            <content-link content-id="ac2cec8415ac4a1bd52e079752" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>2.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="b76ccf99d8d0d1353a7c0f3117">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="2eb8d5722a5c10fe93efb055be" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="b78c5acb1ee5f0deaeddb162b2">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 1&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="b7926b8b12d5ef3b213c372253">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "corner-set-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="b97baa38c0e788fb4a551b7e03">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_21.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 131
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="bcbbf2c5d975beb33c9f32d46b">
+        <display-name xml:lang="x-default">Product Listing Layout</display-name>
+        <type>component.dynamic.dynamicCategoryBanner</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : null,
+  "product" : null,
+  "heading" : null,
+  "category" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c07362ff30b682a09fdb4cd007">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_16.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 399,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c414c957dde86cddc3162a2792">
+        <type>component.commerce_assets.youtube</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "hideControls" : false,
+  "youtubeID" : "6QTxfqlACPM",
+  "autoplay" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c55b836dbb6bb5b55d71027e82">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_22.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 140
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c57b6b6547de2f25b2ecfc5f0f">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="9d8ed59de34396196ad740b396" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="c60addcfaa723b984731c70b1e">
+        <type>component.commerce_assets.popularCategory</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_43.jpg",
+    "focal_point" : {
+      "x" : 0.78,
+      "y" : 0.58
+    },
+    "meta_data" : {
+      "height" : 756,
+      "width" : 1600
+    }
+  },
+  "offset" : null,
+  "catDisplayName" : null,
+  "imagesize" : null,
+  "category" : "knuffmannTrends"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c65444fdd6732c87f24a5b3bfe">
+        <type>component.commerce_assets.popularCategory</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffman_2.jpg",
+    "focal_point" : {
+      "x" : 0.31,
+      "y" : 0.62
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "offset" : null,
+  "catDisplayName" : null,
+  "imagesize" : null,
+  "category" : "knuffmannbrochures"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c6bbb7ad35f8455a233016c033">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "upholstered-suit-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c72e479055167bd0244e94851c">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_28.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 131
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c07362ff30b682a09fdb4cd007">
+      <type>component.commerce_assets.imageAndText</type>
+      <config>{
+"visibility" : [ ]
+}</config>
+      <data xml:lang="x-default">{
+"ITCLink" : null,
+"ITCText" : null,
+"image" : {
+  "path" : "knuffman_16.jpg",
+  "focal_point" : {
+    "x" : 0.5,
+    "y" : 0.5
+  },
+  "meta_data" : {
+    "height" : 399,
+    "width" : 1100
+  }
+},
+"heading" : null,
+"alt" : null
+}</data>
+      <online-flag>true</online-flag>
+      <page-attributes/>
+  </content>
+
+  <content content-id="c55b836dbb6bb5b55d71027e82">
+      <type>component.commerce_assets.imageAndText</type>
+      <config>{
+"visibility" : [ ]
+}</config>
+      <data xml:lang="x-default">{
+"ITCLink" : null,
+"ITCText" : null,
+"image" : {
+  "path" : "knuffman_22.jpg",
+  "focal_point" : {
+    "x" : 0.5,
+    "y" : 0.5
+  },
+  "meta_data" : {
+    "height" : 45,
+    "width" : 140
+  }
+},
+"heading" : null,
+"alt" : null
+}</data>
+      <online-flag>true</online-flag>
+      <page-attributes/>
+  </content>
+
+    <content content-id="c95dfe51a73a402514a52a7dcb">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_25.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 44,
+      "width" : 139
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="ca1b9a042b641877e7b9c91d80">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "small.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 720,
+      "width" : 1280
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="ca4e27455ebf023cdcbdc40bde">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_26.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 130
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="cart.show.seo">
+        <display-name xml:lang="x-default">Cart-Show</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="cb639422dc4e1cdc6c60d16956">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="d3e035b13426d3d3013247bb14" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="cc8159556815569b02b0522b1b">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Shop The Look Product Tile:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="cdf8f78dd85ca24422d77c8c79">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_15.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="ceee78eb15c4ef5998fa6764c3">
+        <type>component.commerce_assets.popularCategory</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "bild-2071.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 187,
+      "width" : 250
+    }
+  },
+  "offset" : null,
+  "catDisplayName" : "Category 1",
+  "imagesize" : "'200px 100px'",
+  "category" : "knuffmannsales"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="cfa40cdd339dce639a4ae50116">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "corner-set-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="checkout.confirmation.seo">
+        <display-name xml:lang="x-default">Checkout-Confirmation</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="checkout.login.seo">
+        <display-name xml:lang="x-default">Checkout-Login</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="checkout.paymentdetails.seo">
+        <display-name xml:lang="x-default">Checkout-Payment details</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="checkout.revieworder.seo">
+        <display-name xml:lang="x-default">Checkout-Review Order</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="checkout.shippingdetails.seo">
+        <display-name xml:lang="x-default">Checkout-Shipping details</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="contactUs.landing.seo">
+        <display-name xml:lang="x-default">ContactUs-Landing</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="d0cdf30b9ecc799e1f346542f5">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Image Tile:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="d150577f319d44379759997130">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h1&gt;This is a Heading 1&lt;/h1&gt;&lt;h2&gt;This is a Heading 2&lt;/h2&gt;&lt;h3&gt;This is a Heading 3&lt;/h3&gt;&lt;h4&gt;This is a Heading 4&lt;/h4&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Lorem &lt;strong&gt;bold text &lt;/strong&gt;&lt;u&gt;underlined text &lt;/u&gt;&lt;em&gt;italic text&lt;/em&gt;, &lt;a href=\"https://google.de/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"https://google.de\"&gt;this is an inline link&lt;/a&gt; elitr, &lt;s&gt;sed eirmod tempor&lt;/s&gt; invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Unordered List:&lt;/u&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lorem ipsum dolor sit amet.&lt;/li&gt;&lt;li&gt;gubergren&lt;/li&gt;&lt;li&gt;onumy eirmod tempor i&lt;/li&gt;&lt;li&gt;m nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;u&gt;Ordered List:&lt;/u&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Lorem ipsum dolor sit amet.&lt;/li&gt;&lt;li&gt;gubergren&lt;/li&gt;&lt;li&gt;onumy eirmod tempor i&lt;/li&gt;&lt;li&gt;m nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;u&gt;Image: &lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;﻿&lt;img src=\"knuffman_banner.jpg?$staticlink$\"&gt;﻿&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt; Link:&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=\"$url('Search-Show', 'cgid', 'knuffmanncareer')$\" target=\"_self\" data-link-type=\"category\" data-link-label=\"CAREER\" data-category-id=\"knuffmanncareer\" data-category-catalog-id=\"headerKnuffmannCatalog\"&gt;&lt;u&gt;CAREER&lt;/u&gt;&lt;/a&gt;&lt;u&gt;﻿&lt;/u&gt;&lt;/p&gt;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="d2dfcdffc30c59b4286c59997b">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;p&gt;Welcome to knuffmann - your furniture store with a tradition of living&lt;/p&gt;",
+  "align" : "center",
+  "styleClass" : "h1 text-center",
+  "customCss" : "font-weight: normal;\ntext-transform: uppercase;\ncolor: #004290;\nfont-size: 28px"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="d3e035b13426d3d3013247bb14">
+        <type>component.commerce_layouts.carousel</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "xsCarouselIndicators" : true,
+  "smCarouselControls" : true,
+  "mdCarouselIndicators" : true,
+  "xsCarouselControls" : false,
+  "smCarouselIndicators" : true,
+  "xsCarouselSlidesToDisplay" : 1,
+  "mdCarouselSlidesToDisplay" : 1,
+  "textHeadline" : null,
+  "smCarouselSlidesToDisplay" : 1
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="08953da22051aec93f7d7e75bb" type="component.commerce_layouts.carousel.slides">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="d4f77036a2fb5689932cb269a7">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "corner-set-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="d9ab3939979431ef5762c79199">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Round Category Title With Caption:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="d9f46fd29ca32d803f31f4d845">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="86a377b0b2d6dc9d7583f46a52" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="da891ab9b1768e19b5297a481d">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Popular Categories Layout:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="dc49b2884c9f3d2a5fb7a2ee08">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "corner-set-001",
+  "displayRatings" : false
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="ddb361f7f1d206caee47824a32">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Dynamic Product Listing Layout:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="default.start.seo">
+        <display-name xml:lang="x-default">Default-Start</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="df9cdf03ee09ad81dbacabec08">
+        <type>component.commerce_assets.shopTheLook</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "upholstered-suit-001",
+  "priceDisplay" : true
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="dfe1b243803d3d5d066772f147">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_46.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1200,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="e021a0b5a89ffa13785fc2071f">
+        <type>component.commerce_layouts.mobileGrid2r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="7c09d60948d8058f37a950e104" type="component.commerce_layouts.mobileGrid2r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="df9cdf03ee09ad81dbacabec08" type="component.commerce_layouts.mobileGrid2r2c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="4563e0a87bb0645cd15c5ec3ee" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="b03812044d567bd1e130895a83" type="component.commerce_layouts.mobileGrid2r2c.column3">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="e0405a2d8661db151761135653">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_8.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="e119b57a0caf6d2a4b515eede1">
+    </content>
+
+    <content content-id="ca4e27455ebf023cdcbdc40bde">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_19.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 139
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="ca4e27455ebf023cdcbdc40bde">
+      <type>component.commerce_assets.imageAndText</type>
+      <config>{
+"visibility" : [ ]
+}</config>
+      <data xml:lang="x-default">{
+"ITCLink" : null,
+"ITCText" : null,
+"image" : {
+  "path" : "knuffman_26.jpg",
+  "focal_point" : {
+    "x" : 0.5,
+    "y" : 0.5
+  },
+  "meta_data" : {
+    "height" : 45,
+    "width" : 130
+  }
+},
+"heading" : null,
+"alt" : null
+}</data>
+      <online-flag>true</online-flag>
+      <page-attributes/>
+  </content>
+
+    <content content-id="e15605610ad01f7830053ecbe0">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;1 Row x 1 Col ( Mobile, Desktop):&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="e2c5173e7b4c9aa6b76e49398d">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_46.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1200,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="e3c4dd2c3dac52833bf8d54da4">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Image with text&lt;/h4&gt;&lt;p&gt;-variant: with overlay and text below image:&lt;/p&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="e402c6341ea8346bcbf7c9e2d0">
+        <type>component.commerce_layouts.mobileGrid2r3c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="e119b57a0caf6d2a4b515eede1" type="component.commerce_layouts.mobileGrid2r3c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="5360aa09bd49e9e8a8005cdfa9" type="component.commerce_layouts.mobileGrid2r3c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="b97baa38c0e788fb4a551b7e03" type="component.commerce_layouts.mobileGrid2r3c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="c55b836dbb6bb5b55d71027e82" type="component.commerce_layouts.mobileGrid2r3c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="5414cd43df45eefdf4e6d5da10" type="component.commerce_layouts.mobileGrid2r3c.column5">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="91ec3e880eb61fbcaf62616010" type="component.commerce_layouts.mobileGrid2r3c.column6">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="e47cec86b19a065e69cbea50bb">
+        <type>component.commerce_layouts.mobileGrid2r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="57d262918c452af47e405bfabf" type="component.commerce_layouts.mobileGrid2r2c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="4c51f84a2e48511cfc7b6b2174" type="component.commerce_layouts.mobileGrid2r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="aa53b28875219e5c5455db80e4" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="ceee78eb15c4ef5998fa6764c3" type="component.commerce_layouts.mobileGrid2r2c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="cb639422dc4e1cdc6c60d16956">
+      <type>component.commerce_layouts.grid1r1cMainCentral</type>
+      <config>{
+"visibility" : [ ]
+}</config>
+      <data xml:lang="x-default">{ }</data>
+      <online-flag>true</online-flag>
+      <page-attributes/>
+      <content-links>
+          <content-link content-id="d3e035b13426d3d3013247bb14" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+              <position>0.0</position>
+          </content-link>
+      </content-links>
+  </content>
+
+    <content content-id="e796c797e5ffe12b3501603d05">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Einstein Components:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+<content content-id="efcc7063c777f3a44a5476207f">
         <type>component.commerce_layouts.carousel</type>
         <config>{
   "visibility" : [ ]
@@ -4451,6 +8683,19 @@
   "mdCarouselSlidesToDisplay" : 2,
   "textHeadline" : null,
   "smCarouselSlidesToDisplay" : 1
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+        <content content-id="e7aa92727c1488333dcfadeefc">
+        <type>component.commerce_assets.productTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : "modern-woven-carpet-001",
+  "displayRatings" : false
 }</data>
         <online-flag>true</online-flag>
         <page-attributes/>
@@ -4502,12 +8747,58 @@
         <page-attributes/>
     </content>
 
+    <content content-id="e80200fd522db695c192bd032a">
+        <type>component.commerce_layouts.mobileGrid2r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="3c4d08a601cf70d46c5c39bc81" type="component.commerce_layouts.mobileGrid2r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="557b796835c87e4c5d9bd4d987" type="component.commerce_layouts.mobileGrid2r1c.column2">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="eb385fed585289d3250b4178d6">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Dynamic Category Banner Component:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
     <content content-id="f19dfa3d05110e73c4b2676704">
         <type>component.commerce_layouts.mobileGrid1r1c</type>
         <config>{
   "visibility" : [ ]
 }</config>
         <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="ede134d2436b447383b3abb5b7">
+        <type>component.commerce_assets.editorialRichText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "richText" : "&lt;h3&gt;Column 3&lt;/h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+}</data>
         <online-flag>true</online-flag>
         <page-attributes/>
     </content>
@@ -4520,6 +8811,96 @@
 }</config>
         <data xml:lang="x-default">{
   "product" : "corner-set-001"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+ <content content-id="efcc7063c777f3a44a5476207f">
+        <type>component.commerce_layouts.carousel</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "xsCarouselIndicators" : false,
+  "smCarouselControls" : false,
+  "mdCarouselIndicators" : false,
+  "xsCarouselControls" : false,
+  "smCarouselIndicators" : false,
+  "xsCarouselSlidesToDisplay" : 1,
+  "mdCarouselSlidesToDisplay" : 1,
+  "textHeadline" : null,
+  "smCarouselSlidesToDisplay" : 1
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="90dc28ab30963f1c690564b269" type="component.commerce_layouts.carousel.slides">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="297b3412b9f4bc4c0848c0b9f5" type="component.commerce_layouts.carousel.slides">
+                <position>1.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+
+    <content content-id="error.errorcode.seo">
+        <display-name xml:lang="x-default">Error-ErrorCode</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="error.start.seo">
+        <display-name xml:lang="x-default">Error-Start</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="f19dfa3d05110e73c4b2676704">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="5ea3f2cfab9e6cb3b2cfdee943" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="f1d4b04a67e348d4a374d36bed">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_42.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 968,
+      "width" : 1600
+    }
+  }
 }</data>
         <online-flag>true</online-flag>
         <page-attributes/>
@@ -4567,6 +8948,64 @@
         <page-attributes/>
     </content>
 
+    <content content-id="f4cd433930e5b3111453e45633">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_44.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1068,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="f5e8171bd2a4ed616de104dbec">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="f68c35f70e697cf2f810dbf764">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_7.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 130
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
     <content content-id="f50d39baec9d7adc514fb40979">
         <type>component.commerce_assets.imageAndText</type>
         <config>{
@@ -4593,6 +9032,86 @@
         <page-attributes/>
     </content>
 
+    <content content-id="f752863c339556d056abd77b94">
+        <type>component.commerce_assets.photoTile</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "image" : {
+    "path" : "knuffmann_44.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 1068,
+      "width" : 1600
+    }
+  }
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="f88f1ca63d6f083c4c4eb4b7b2">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;Shop The Look Layout:&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="fac237b08bd65d26b0c0ff839a">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;h4&gt;1 Row x 1 Col (sides filled on Mobile, sides spaced on Desktop):&lt;/h4&gt;",
+  "align" : null,
+  "styleClass" : "componentTitle",
+  "customCss" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="faf14dd8669c7d2bfc95496814">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_27.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 131
+    }
+  },
+  "heading" : "&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;",
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
     <content content-id="f5e8171bd2a4ed616de104dbec">
         <type>component.commerce_layouts.mobileGrid1r1c</type>
         <config>{
@@ -4604,6 +9123,32 @@
     </content>
 
     <content content-id="f68c35f70e697cf2f810dbf764">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_7.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+    
+    <content content-id="f48f68a4f881896204cfc42e74">
         <type>component.commerce_assets.imageAndText</type>
         <config>{
   "visibility" : [ ]
@@ -4686,6 +9231,62 @@
         <online-flag>true</online-flag>
         <page-attributes/>
     </content>
+    
+    <content content-id="e119b57a0caf6d2a4b515eede1">
+      <type>component.commerce_assets.imageAndText</type>
+      <config>{
+"visibility" : [ ]
+}</config>
+      <data xml:lang="x-default">{
+"ITCLink" : null,
+"ITCText" : null,
+"image" : {
+  "path" : "knuffman_19.jpg",
+  "focal_point" : {
+    "x" : 0.5,
+    "y" : 0.5
+  },
+  "meta_data" : {
+    "height" : 45,
+    "width" : 139
+  }
+},
+"heading" : null,
+"alt" : null
+}</data>
+      <online-flag>true</online-flag>
+      <page-attributes/>
+  </content>
+
+  <content content-id="e402c6341ea8346bcbf7c9e2d0">
+      <type>component.commerce_layouts.mobileGrid2r3c</type>
+      <config>{
+"visibility" : [ ]
+}</config>
+      <data xml:lang="x-default">{ }</data>
+      <online-flag>true</online-flag>
+      <page-attributes/>
+      <content-links>
+          <content-link content-id="e119b57a0caf6d2a4b515eede1" type="component.commerce_layouts.mobileGrid2r3c.column1">
+              <position>0.0</position>
+          </content-link>
+          <content-link content-id="5360aa09bd49e9e8a8005cdfa9" type="component.commerce_layouts.mobileGrid2r3c.column2">
+              <position>0.0</position>
+          </content-link>
+          <content-link content-id="b97baa38c0e788fb4a551b7e03" type="component.commerce_layouts.mobileGrid2r3c.column3">
+              <position>0.0</position>
+          </content-link>
+          <content-link content-id="c55b836dbb6bb5b55d71027e82" type="component.commerce_layouts.mobileGrid2r3c.column4">
+              <position>0.0</position>
+          </content-link>
+          <content-link content-id="5414cd43df45eefdf4e6d5da10" type="component.commerce_layouts.mobileGrid2r3c.column5">
+              <position>0.0</position>
+          </content-link>
+          <content-link content-id="91ec3e880eb61fbcaf62616010" type="component.commerce_layouts.mobileGrid2r3c.column6">
+              <position>0.0</position>
+          </content-link>
+      </content-links>
+  </content>
 
     <content content-id="faf14dd8669c7d2bfc95496814">
         <type>component.commerce_assets.imageAndText</type>
@@ -4791,14 +9392,11 @@
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <content-links>
-            <content-link content-id="65cdb131f471d2558760549204" type="page.global.footer">
+            <content-link content-id="48a2a45f5ace43358f561fbba8" type="page.global.header">
                 <position>0.0</position>
             </content-link>
-            <content-link content-id="195c859a3fc0c8ccbbd5257260" type="page.global.header">
+            <content-link content-id="0dd02c0d6c1cbf19d4a9408135" type="page.global.footer">
                 <position>0.0</position>
-            </content-link>
-            <content-link content-id="a6f3a3a6fff3d7789fc1f5ccaa" type="page.global.footer">
-                <position>1.0</position>
             </content-link>
         </content-links>
         <sitemap-included-flag>false</sitemap-included-flag>
@@ -4835,6 +9433,31 @@
                 <position>7.0</position>
             </content-link>
             <content-link content-id="f5e8171bd2a4ed616de104dbec" type="page.storePage.main">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="85e1193fa2f06c4c442ef24b5b" type="page.storePage.main">
+                <position>8.0</position>
+            </content-link>
+        </content-links>
+        <sitemap-included-flag>false</sitemap-included-flag>
+    </content>
+
+    <content content-id="knuffmannpdp">
+        <display-name xml:lang="x-default">knuffmannPDP</display-name>
+        <type>page.productDetail</type>
+        <config>{
+          "visibility" : [ ]
+        }</config>
+        <visibility-mode xml:lang="x-default">visible</visibility-mode>
+        <data xml:lang="x-default">{
+  "product" : null
+}</data>
+        <aspect-type>pdp</aspect-type>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="69b7cb04ef51b1f312a5d09304" type="page.productDetail.main">
                 <position>0.0</position>
             </content-link>
             <content-link content-id="85e1193fa2f06c4c442ef24b5b" type="page.storePage.main">
@@ -5029,7 +9652,7 @@
         </page-attributes>
     </content>
 
-    <content content-id="pdp-knuffmann-test">
+<content content-id="pdp-knuffmann-test">
         <display-name xml:lang="x-default">pdp-knuffmann-test</display-name>
         <type>page.productDetail</type>
         <config>{
@@ -5051,6 +9674,233 @@
         <content-object-assignments>
             <content-object-assignment object-id="root" object-type="category"/>
         </content-object-assignments>
+        <sitemap-included-flag>false</sitemap-included-flag>
+    </content>
+
+<content content-id="pdComponentList">
+        <display-name xml:lang="x-default">Page Designer Component List</display-name>
+        <description xml:lang="x-default">Test Storefront Page Designer Layout with all possible Components and adapted styling.</description>
+        <type>page.storePage</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <visibility-mode xml:lang="x-default">visible</visibility-mode>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="239b6cff0c0160b9ca162864f7" type="page.storePage.main">
+                <position>35.0</position>
+            </content-link>
+            <content-link content-id="49bd7a69d0597c6d9618e27082" type="page.storePage.main">
+                <position>9.0</position>
+            </content-link>
+            <content-link content-id="b76ccf99d8d0d1353a7c0f3117" type="page.storePage.main">
+                <position>11.0</position>
+            </content-link>
+            <content-link content-id="e15605610ad01f7830053ecbe0" type="page.storePage.main">
+                <position>45.0</position>
+            </content-link>
+            <content-link content-id="f19dfa3d05110e73c4b2676704" type="page.storePage.main">
+                <position>46.0</position>
+            </content-link>
+            <content-link content-id="2b507a3c3e0642e50a9cfb839f" type="page.storePage.main">
+                <position>47.0</position>
+            </content-link>
+            <content-link content-id="07a644ddeea451cd833d62ba4c" type="page.storePage.main">
+                <position>54.0</position>
+            </content-link>
+            <content-link content-id="1dfbe7ce8274ce2f70ae34a5d7" type="page.storePage.main">
+                <position>55.0</position>
+            </content-link>
+            <content-link content-id="388e424fb92109d0aa4144f819" type="page.storePage.main">
+                <position>56.0</position>
+            </content-link>
+            <content-link content-id="f88f1ca63d6f083c4c4eb4b7b2" type="page.storePage.main">
+                <position>57.0</position>
+            </content-link>
+            <content-link content-id="8baea4d932ccb16d0c4faf2eae" type="page.storePage.main">
+                <position>1.0</position>
+            </content-link>
+            <content-link content-id="3937e8385dd2bffe0c9b2b574b" type="page.storePage.main">
+                <position>2.0</position>
+            </content-link>
+            <content-link content-id="d9f46fd29ca32d803f31f4d845" type="page.storePage.main">
+                <position>5.0</position>
+            </content-link>
+            <content-link content-id="d0cdf30b9ecc799e1f346542f5" type="page.storePage.main">
+                <position>16.0</position>
+            </content-link>
+            <content-link content-id="0d6c24bdb9b7aefb81a92f8971" type="page.storePage.main">
+                <position>18.0</position>
+            </content-link>
+            <content-link content-id="a2e0472134123a0e9c40d5d027" type="page.storePage.main">
+                <position>21.0</position>
+            </content-link>
+            <content-link content-id="d9ab3939979431ef5762c79199" type="page.storePage.main">
+                <position>22.0</position>
+            </content-link>
+            <content-link content-id="e47cec86b19a065e69cbea50bb" type="page.storePage.main">
+                <position>23.0</position>
+            </content-link>
+            <content-link content-id="4c6a87fe0c5d7c72e57c3c284b" type="page.storePage.main">
+                <position>26.0</position>
+            </content-link>
+            <content-link content-id="e80200fd522db695c192bd032a" type="page.storePage.main">
+                <position>27.0</position>
+            </content-link>
+            <content-link content-id="2648bd3fe9a5090f0b3aa01fb1" type="page.storePage.main">
+                <position>28.0</position>
+            </content-link>
+            <content-link content-id="f486f171a0b209b0601a34d2db" type="page.storePage.main">
+                <position>31.0</position>
+            </content-link>
+            <content-link content-id="9668437ec9be4b0b9af176ab5c" type="page.storePage.main">
+                <position>32.0</position>
+            </content-link>
+            <content-link content-id="a6580f9954290fa31ffcd20b62" type="page.storePage.main">
+                <position>33.0</position>
+            </content-link>
+            <content-link content-id="cc8159556815569b02b0522b1b" type="page.storePage.main">
+                <position>34.0</position>
+            </content-link>
+            <content-link content-id="9bc05194c32d8b95e17efa90b6" type="page.storePage.main">
+                <position>36.0</position>
+            </content-link>
+            <content-link content-id="e021a0b5a89ffa13785fc2071f" type="page.storePage.main">
+                <position>37.0</position>
+            </content-link>
+            <content-link content-id="13c86b5467c983766f9712910e" type="page.storePage.main">
+                <position>38.0</position>
+            </content-link>
+            <content-link content-id="c414c957dde86cddc3162a2792" type="page.storePage.main">
+                <position>39.0</position>
+            </content-link>
+            <content-link content-id="4b21eb6d9233efd1c5bad6a220" type="page.storePage.main">
+                <position>40.0</position>
+            </content-link>
+            <content-link content-id="efcc7063c777f3a44a5476207f" type="page.storePage.main">
+                <position>41.0</position>
+            </content-link>
+            <content-link content-id="9587860a7e238628d6a58badbf" type="page.storePage.main">
+                <position>44.0</position>
+            </content-link>
+            <content-link content-id="168357d7ce2da6198d48e0c806" type="page.storePage.main">
+                <position>51.0</position>
+            </content-link>
+            <content-link content-id="1c1e7d49d8e0092cbabe18c9c2" type="page.storePage.main">
+                <position>52.0</position>
+            </content-link>
+            <content-link content-id="da891ab9b1768e19b5297a481d" type="page.storePage.main">
+                <position>59.0</position>
+            </content-link>
+            <content-link content-id="14c40b2da91bb2fba7b4ac0c37" type="page.storePage.main">
+                <position>60.0</position>
+            </content-link>
+            <content-link content-id="1dce49c6aafac54db304db875b" type="page.storePage.main">
+                <position>63.0</position>
+            </content-link>
+            <content-link content-id="e796c797e5ffe12b3501603d05" type="page.storePage.main">
+                <position>67.0</position>
+            </content-link>
+            <content-link content-id="91fc2cd630fe7ab7da1b3c2183" type="page.storePage.main">
+                <position>68.0</position>
+            </content-link>
+            <content-link content-id="73aaf17fb8a3d2486335943fa3" type="page.storePage.main">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="c57b6b6547de2f25b2ecfc5f0f" type="page.storePage.main">
+                <position>15.0</position>
+            </content-link>
+            <content-link content-id="09bde534bbcce86f3288460ee6" type="page.storePage.main">
+                <position>20.0</position>
+            </content-link>
+            <content-link content-id="86366cc33ccf04959bf5e4ce6d" type="page.storePage.main">
+                <position>29.0</position>
+            </content-link>
+            <content-link content-id="4ee1ca5529a473051a06ad873f" type="page.storePage.main">
+                <position>30.0</position>
+            </content-link>
+            <content-link content-id="5213fc952fca4a4808ab6babde" type="page.storePage.main">
+                <position>49.0</position>
+            </content-link>
+            <content-link content-id="937fcbd2b199a388f93b27c89a" type="page.storePage.main">
+                <position>50.0</position>
+            </content-link>
+            <content-link content-id="2c430c34560af887f758bad777" type="page.storePage.main">
+                <position>53.0</position>
+            </content-link>
+            <content-link content-id="31c3ac38f0644131e014187793" type="page.storePage.main">
+                <position>64.0</position>
+            </content-link>
+            <content-link content-id="05fa2c0993101d4ad27b8acf25" type="page.storePage.headerbanner">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="b3e2926b7cca148557e31bed4a" type="page.storePage.main">
+                <position>10.0</position>
+            </content-link>
+            <content-link content-id="e3c4dd2c3dac52833bf8d54da4" type="page.storePage.main">
+                <position>12.0</position>
+            </content-link>
+            <content-link content-id="b3669e1c0ba55a802f3b41baaf" type="page.storePage.main">
+                <position>58.0</position>
+            </content-link>
+            <content-link content-id="eb385fed585289d3250b4178d6" type="page.storePage.main">
+                <position>61.0</position>
+            </content-link>
+            <content-link content-id="44f02c83895aafb9b9fc7403c3" type="page.storePage.main">
+                <position>62.0</position>
+            </content-link>
+            <content-link content-id="2e0c3e271bfa81733b7833f8ce" type="page.storePage.main">
+                <position>3.0</position>
+            </content-link>
+            <content-link content-id="387531699764d969b8bf3594ed" type="page.storePage.main">
+                <position>4.0</position>
+            </content-link>
+            <content-link content-id="3d144960139d488183b5517ea8" type="page.storePage.main">
+                <position>6.0</position>
+            </content-link>
+            <content-link content-id="4ef3d4cbd759bdb6d66446286c" type="page.storePage.main">
+                <position>7.0</position>
+            </content-link>
+            <content-link content-id="49fd52c6ade006841e60d3942e" type="page.storePage.main">
+                <position>8.0</position>
+            </content-link>
+            <content-link content-id="8148724501c657b9c410bc1617" type="page.storePage.main">
+                <position>13.0</position>
+            </content-link>
+            <content-link content-id="003edae48f8b2b28fd14332a5d" type="page.storePage.main">
+                <position>14.0</position>
+            </content-link>
+            <content-link content-id="5e0b2754283d4353d9d5f775c1" type="page.storePage.main">
+                <position>17.0</position>
+            </content-link>
+            <content-link content-id="3d537c35ddfc33c14bd266486e" type="page.storePage.main">
+                <position>19.0</position>
+            </content-link>
+            <content-link content-id="607baa2b1142bf6463c5912849" type="page.storePage.main">
+                <position>42.0</position>
+            </content-link>
+            <content-link content-id="8286c0c69545f2e5d7370204aa" type="page.storePage.main">
+                <position>24.0</position>
+            </content-link>
+            <content-link content-id="078614f83a4ad1b79c4514aa8e" type="page.storePage.main">
+                <position>25.0</position>
+            </content-link>
+            <content-link content-id="fac237b08bd65d26b0c0ff839a" type="page.storePage.main">
+                <position>43.0</position>
+            </content-link>
+            <content-link content-id="4a3e939dbcf8eac08fbce36f0f" type="page.storePage.main">
+                <position>48.0</position>
+            </content-link>
+            <content-link content-id="ddb361f7f1d206caee47824a32" type="page.storePage.main">
+                <position>65.0</position>
+            </content-link>
+            <content-link content-id="935292848c942999d502b3abfa" type="page.storePage.main">
+                <position>66.0</position>
+            </content-link>
+        </content-links>
         <sitemap-included-flag>false</sitemap-included-flag>
     </content>
 
@@ -5110,7 +9960,7 @@
         <sitemap-included-flag>false</sitemap-included-flag>
     </content>
 
-    <content content-id="storefront-test">
+  <content content-id="storefront-test">
         <display-name xml:lang="x-default">Storefront Test</display-name>
         <description xml:lang="x-default">Test Storefront Page Designer Layout</description>
         <type>page.storePage</type>
