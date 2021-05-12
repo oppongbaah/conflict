@@ -1,0 +1,1938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+    <folder folder-id="root">
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </folder>
+
+    <content content-id="0484816b036062745a66fd9b24">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="35eee7d3b377cbd488f53ccb45" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="057b9322250c116da79716754b">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="a0a65aba531f5285ca674fa8c1" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="0636b12ef6bc840c5d737f3cec">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_14.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 200,
+      "width" : 540
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="067f4c1cb727e8d5b943454847">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_9.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="0883a9760b3828181acc9d1af8">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_2.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="08953da22051aec93f7d7e75bb">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_banner.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 399,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : "Appointment booking FIliale"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="089aee1a98d1a5ef5ffe13a8d6">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_10.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="0f0b904df1deab802df901b014">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_17.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="17dae0c22ed6cf8cd4e8495e45">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_30.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 140
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="181e0e89d1c3c06e3c7d0f6c3f">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="7fef2df7125d85ffdb352ea2ce" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="195c859a3fc0c8ccbbd5257260">
+        <type>component.commerce_assets.headerMenu</type>
+        <config>{
+          "visibility" : [ ]
+        }</config>
+                <data xml:lang="x-default">{
+          "catalogID" : "headerKnuffmannCatalog",
+          "styleClass" : null
+        }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="195c963d91d0ec4466ab191e4e">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_1.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="22d1e3a9aa0e1f2ad32d343674">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_11.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="2aabd5aab543ceb3c13719b517">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="a689a64ba85069f389fb00ebd0" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="316349dc92a244ba7a644a8bf3">
+        <type>component.commerce_layouts.mobileGrid2r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="195c963d91d0ec4466ab191e4e" type="component.commerce_layouts.mobileGrid2r2c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="0883a9760b3828181acc9d1af8" type="component.commerce_layouts.mobileGrid2r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="75c467e66287a4b5efe14c5fca" type="component.commerce_layouts.mobileGrid2r2c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="6d1bb9a193715d1db91e60ce5b" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="35eee7d3b377cbd488f53ccb45">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="2aabd5aab543ceb3c13719b517" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="9246657b49acea0c6dd6dfa22f" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>1.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="46a617e3a964569481032e7fa5">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;p&gt;Dear customers, until further notice our changed opening times apply in the central warehouse in Krefeld.&amp;nbsp;The collection of your ordered furniture is possible Monday - Friday from 1 p.m. to 6 p.m. &amp;amp; Saturday from 10 a.m. to 2 p.m.&lt;/p&gt;",
+  "align" : "left",
+  "styleClass" : null,
+  "customCss" : "font-size: 16px;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="4db6c5fd83be4837c816384aa8">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_13.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 200,
+      "width" : 540
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="5360aa09bd49e9e8a8005cdfa9">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_20.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 140
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="5414cd43df45eefdf4e6d5da10">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_23.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 134
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="5f91a8a13f9b60af6a09171937">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_6.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="6d1bb9a193715d1db91e60ce5b">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_4.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="6fb5d9911b9f3ef6af2b5fd50c">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_18.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="75c467e66287a4b5efe14c5fca">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_3.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="7729955904e5f9b232b5f5d524">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_12.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="7888f29e0a4fe8cc3d92ce0a79">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;p&gt;Knuffmann has been a guarantee for high-quality furniture and home accessories for more than 100 years.&amp;nbsp;With us you will find a huge range of furniture from well-known&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/marken/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"brand manufacturers\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;brand manufacturers&lt;/u&gt;&lt;/a&gt;&amp;nbsp;such as Hülsta, Rolf Benz or Musterring as well as our own brands Mondo, Vito and Valmondo,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/wohnideen-und-inspiration/kueche/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"kitchens\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"&gt;&lt;u&gt;kitchens&lt;/u&gt;&lt;/a&gt;&amp;nbsp;from Nobilia or Nolte, supplemented by an extensive range of&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/dekoartikel-und-accessoires/wohnaccessoires/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"home accessories\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;home accessories&lt;/u&gt;&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/haushaltsartikel/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"housewares\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;housewares&lt;/u&gt;&lt;/a&gt;&amp;nbsp;for every furnishing style.&amp;nbsp;Discover many new&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/wohnzimmer/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"living\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;living&lt;/u&gt;&lt;/a&gt;&amp;nbsp;ideas for your&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/wohnzimmer/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"living room\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;living room&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/speisezimmer/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"dining room\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;dining room&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/klein-dielenmoebel/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"hallway\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;hallway&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/schlafzimmer/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"bedroom\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;bedroom&lt;/u&gt;&lt;/a&gt;&amp;nbsp;or&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/bad/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"bathroom\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"&gt;&lt;u&gt;bathroom&lt;/u&gt;&lt;/a&gt;&amp;nbsp;and be inspired by the latest living trends in our exhibitions.&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;Whatever you need, you are guaranteed to find it in our branches.&amp;nbsp;From the&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/wohnzimmer/wohnwaende-und-beimoebel/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"wall unit\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;wall unit&lt;/u&gt;&lt;/a&gt;&amp;nbsp;to&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/speisezimmer/vitrinen-sideboards/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"showcases, sideboards\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;showcases, sideboards&lt;/u&gt;&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/klein-und-dielenmoebel/regale/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"shelves\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;shelves&lt;/u&gt;&lt;/a&gt;&amp;nbsp;to&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/esszimmer/tische/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"tables\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;tables&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/esszimmer/stuehle-und-hocker/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"chairs\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;chairs&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/esszimmer/baenke-und-eckbaenke/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"benches\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;benches&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/schlafzimmer/kleiderschraenke/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"cupboards\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;cupboards&lt;/u&gt;&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/moebel/schlafzimmer/betten/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"beds\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;beds&lt;/u&gt;&lt;/a&gt;&amp;nbsp;, we offer you the latest furniture trends as well as versatile small pieces of furniture of the highest quality.&amp;nbsp;All of our products impress with their first-class design and offer you plenty of functionality and storage space.&amp;nbsp;With our modern kitchens, supplemented by kitchen and household accessories, amateur cooks get their money's worth.&amp;nbsp;Stylish&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/dekoartikel-und-accessoires/wohnaccessoires/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"home accessories\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;home accessories&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/produkte/leuchten-und-lampen/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"lights\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;lights&lt;/u&gt;&lt;/a&gt;&amp;nbsp;,&lt;a href=\"https://www.knuffmann.de/produkte/moebel/badmoebel/badaccessoires/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"Bath accessories\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;Bath accessories&lt;/u&gt;&lt;/a&gt;&amp;nbsp;, home textiles,&lt;a href=\"https://www.knuffmann.de/produkte/dekoartikel-und-accessoires/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"decorative items\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;&amp;nbsp;decorative items&lt;/u&gt;&lt;/a&gt;&amp;nbsp;and&lt;a href=\"https://www.knuffmann.de/produkte/teppiche/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"rugs\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;&amp;nbsp;rugs&lt;/u&gt;&lt;/a&gt;&amp;nbsp;round out our extensive range.&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;Our team of experienced consultants and furnishing experts also supports you in planning and realizing your dream home and offers you comprehensive&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/service/uebersicht/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"customer service\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;customer service&lt;/u&gt;&lt;/a&gt;&amp;nbsp;.&amp;nbsp;Get advice on living space and kitchen design in one of our Knuffmann furniture stores or kitchen markets and take advantage of our&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/service/finanzierung/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"financing\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;financing&lt;/u&gt;&lt;/a&gt;&amp;nbsp;offers&amp;nbsp;as well as the professional assembly and assembly service.&amp;nbsp;The inspiring flair in our furniture stores turns your shopping at Knuffmann into a fun shopping experience.&amp;nbsp;If you want to linger a little longer, you have the opportunity&amp;nbsp;&amp;nbsp;to let&amp;nbsp;yourself be&amp;nbsp;pampered with culinary delights&amp;nbsp;in our&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/service/la-cucina-restaurant/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"restaurant\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;restaurant&lt;/u&gt;&lt;/a&gt;&amp;nbsp;.&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=\"text-align: center;\"&gt;We are looking forward to your visit!&amp;nbsp;You can find your nearest Knuffmann branch&amp;nbsp;&lt;a href=\"https://www.knuffmann.de/ueber-uns/filialen/\" target=\"_blank\" rel=\"noopener noreferrer\" data-link-type=\"external\" data-link-label=\"here\" style=\"color: rgb(0, 0, 0);\"&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;&amp;nbsp;.&lt;/p&gt;",
+  "align" : "center",
+  "styleClass" : null,
+  "customCss" : "font-size: 16px"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="793db49c34f6124e79435486e9">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_5.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="7abc103f09f215b3319a3a5688">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="ac20d3df7c3cc04eaca354dbdd" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="7fef2df7125d85ffdb352ea2ce">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="d2dfcdffc30c59b4286c59997b" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="7888f29e0a4fe8cc3d92ce0a79" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>1.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="81978db22792c028e426a4d9dc">
+        <type>component.commerce_layouts.carousel</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "xsCarouselIndicators" : true,
+  "smCarouselControls" : true,
+  "mdCarouselIndicators" : true,
+  "xsCarouselControls" : true,
+  "smCarouselIndicators" : true,
+  "xsCarouselSlidesToDisplay" : 1,
+  "mdCarouselSlidesToDisplay" : 1,
+  "textHeadline" : null,
+  "smCarouselSlidesToDisplay" : 1
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="cdf8f78dd85ca24422d77c8c79" type="component.commerce_layouts.carousel.slides">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="c07362ff30b682a09fdb4cd007" type="component.commerce_layouts.carousel.slides">
+                <position>1.0</position>
+            </content-link>
+            <content-link content-id="0f0b904df1deab802df901b014" type="component.commerce_layouts.carousel.slides">
+                <position>2.0</position>
+            </content-link>
+            <content-link content-id="6fb5d9911b9f3ef6af2b5fd50c" type="component.commerce_layouts.carousel.slides">
+                <position>3.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="85e1193fa2f06c4c442ef24b5b">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="b6945a96133fa8d22b3b32ce90" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="91ec3e880eb61fbcaf62616010">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_24.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 44,
+      "width" : 133
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="9246657b49acea0c6dd6dfa22f">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="46a617e3a964569481032e7fa5" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="98fa9befe767e5842fb03dfda8">
+        <type>component.commerce_layouts.mobileGrid2r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="f68c35f70e697cf2f810dbf764" type="component.commerce_layouts.mobileGrid2r2c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="5f91a8a13f9b60af6a09171937" type="component.commerce_layouts.mobileGrid2r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="e0405a2d8661db151761135653" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="793db49c34f6124e79435486e9" type="component.commerce_layouts.mobileGrid2r2c.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="9a3161229149c5c460c8252be0">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="81978db22792c028e426a4d9dc" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="9d3ab070fdb7f73cfda669eeac">
+        <type>component.commerce_layouts.mobileGrid2r2c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="089aee1a98d1a5ef5ffe13a8d6" type="component.commerce_layouts.mobileGrid2r2c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="067f4c1cb727e8d5b943454847" type="component.commerce_layouts.mobileGrid2r2c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="22d1e3a9aa0e1f2ad32d343674" type="component.commerce_layouts.mobileGrid2r2c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="7729955904e5f9b232b5f5d524" type="component.commerce_layouts.mobileGrid2r2c.column4">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="a0a65aba531f5285ca674fa8c1">
+        <type>component.commerce_layouts.mobileGrid2r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="4db6c5fd83be4837c816384aa8" type="component.commerce_layouts.mobileGrid2r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="0636b12ef6bc840c5d737f3cec" type="component.commerce_layouts.mobileGrid2r1c.column2">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="a689a64ba85069f389fb00ebd0">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;INFORMATION ABOUT GOODS COLLECTION&lt;/strong&gt;&lt;/p&gt;",
+  "align" : "center",
+  "styleClass" : "h1 text-center",
+  "customCss" : "color: #004290;\nfont-size:28px;\ntext-transform: uppercase;;"
+  "catalogID" : "headerKnuffmannCatalog",
+  "styleClass" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="ac20d3df7c3cc04eaca354dbdd">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="98fa9befe767e5842fb03dfda8" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>2.0</position>
+            </content-link>
+            <content-link content-id="316349dc92a244ba7a644a8bf3" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="9d3ab070fdb7f73cfda669eeac" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>1.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="ac2cec8415ac4a1bd52e079752">
+      <type>component.commerce_layouts.mobileGrid2r3c</type>
+      <config>{
+"visibility" : [ ]
+}</config>
+      <data xml:lang="x-default">{ }</data>
+      <online-flag>true</online-flag>
+      <page-attributes/>
+      <content-links>
+          <content-link content-id="c95dfe51a73a402514a52a7dcb" type="component.commerce_layouts.mobileGrid2r3c.column1">
+              <position>0.0</position>
+          </content-link>
+          <content-link content-id="ca4e27455ebf023cdcbdc40bde" type="component.commerce_layouts.mobileGrid2r3c.column2">
+              <position>0.0</position>
+          </content-link>
+          <content-link content-id="faf14dd8669c7d2bfc95496814" type="component.commerce_layouts.mobileGrid2r3c.column3">
+              <position>0.0</position>
+          </content-link>
+          <content-link content-id="c72e479055167bd0244e94851c" type="component.commerce_layouts.mobileGrid2r3c.column4">
+              <position>0.0</position>
+          </content-link>
+          <content-link content-id="17dae0c22ed6cf8cd4e8495e45" type="component.commerce_layouts.mobileGrid2r3c.column5">
+              <position>0.0</position>
+          </content-link>
+          <content-link content-id="f48f68a4f881896204cfc42e74" type="component.commerce_layouts.mobileGrid2r3c.column6">
+              <position>0.0</position>
+          </content-link>
+      </content-links>
+  </content>
+
+    <content content-id="0c84f127c09053feaa24540630">
+        <display-name xml:lang="x-default">Product Listing Layout</display-name>
+        <type>component.dynamic.productList</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "catalogID" : "headerKnuffmannCatalog",
+  "styleClass" : null
+  "displayFormat" : null,
+  "category" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="30ce3040ce46a092dfef37e804">
+        <type>component.commerce_assets.certificateCollection</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "cert4" : {
+    "path" : "FKLogoFooter.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 48,
+      "width" : 276
+    }
+  },
+  "cert5" : null,
+  "cert2" : {
+    "path" : "design.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 48,
+      "width" : 276
+    }
+  },
+  "cert3" : {
+    "path" : "DieKnu.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 48,
+      "width" : 276
+    }
+  },
+  "cert1" : {
+    "path" : "KNAST.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 48,
+      "width" : 276
+    }
+  }
+  "catalogID" : "headerKnuffmannCatalog",
+  "styleClass" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="c95dfe51a73a402514a52a7dcb" type="component.commerce_layouts.mobileGrid2r3c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="ca4e27455ebf023cdcbdc40bde" type="component.commerce_layouts.mobileGrid2r3c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="faf14dd8669c7d2bfc95496814" type="component.commerce_layouts.mobileGrid2r3c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="c72e479055167bd0244e94851c" type="component.commerce_layouts.mobileGrid2r3c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="17dae0c22ed6cf8cd4e8495e45" type="component.commerce_layouts.mobileGrid2r3c.column5">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="f48f68a4f881896204cfc42e74" type="component.commerce_layouts.mobileGrid2r3c.column6">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="69b7cb04ef51b1f312a5d09304">
+        <type>component.dynamic.productDetail</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "product" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+        <content content-id="a6f3a3a6fff3d7789fc1f5ccaa">
+        <type>component.commerce_assets.footerMenu</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "catalogID" : "footerKnuffmannCatalog",
+  "styleClass" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="account.editpassword.seo">
+        <display-name xml:lang="x-default">Account-EditPassword</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+        <folder-links>
+            <classification-link folder-id="root"/>
+        </folder-links>
+    </content>
+
+    <content content-id="account.editprofile.seo">
+        <display-name xml:lang="x-default">Account-EditProfile</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="account.passwordreset.seo">
+        <display-name xml:lang="x-default">Account-PasswordReset</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="account.setnewpassword.seo">
+        <display-name xml:lang="x-default">Account-SetNewPassword</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="account.show.seo">
+        <display-name xml:lang="x-default">Account-Show</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="address.addaddress.seo">
+        <display-name xml:lang="x-default">Address-AddAddress</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="address.editaddress.seo">
+        <display-name xml:lang="x-default">Address-EditAddress</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="b212d88e0d731516520c0fb4e4">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;p&gt;our&lt;strong&gt; top brands&lt;/strong&gt;&lt;/p&gt;",
+  "align" : "center",
+  "styleClass" : null,
+  "customCss" : "color: #004290;\nfont-size: 28px;\ntext-transform: uppercase;"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="b6945a96133fa8d22b3b32ce90">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="b212d88e0d731516520c0fb4e4" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="e402c6341ea8346bcbf7c9e2d0" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>1.0</position>
+            </content-link>
+            <content-link content-id="ac2cec8415ac4a1bd52e079752" type="component.commerce_layouts.mobileGrid1r1c.column1">
+                <position>2.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="b97baa38c0e788fb4a551b7e03">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_21.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 131
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c07362ff30b682a09fdb4cd007">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_16.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 399,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c55b836dbb6bb5b55d71027e82">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_22.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 140
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c72e479055167bd0244e94851c">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_28.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 131
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="c95dfe51a73a402514a52a7dcb">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_25.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 44,
+      "width" : 139
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="ca4e27455ebf023cdcbdc40bde">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_26.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 130
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="cart.show.seo">
+        <display-name xml:lang="x-default">Cart-Show</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="cb639422dc4e1cdc6c60d16956">
+        <type>component.commerce_layouts.grid1r1cMainCentral</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="d3e035b13426d3d3013247bb14" type="component.commerce_layouts.grid1r1cMainCentral.column1">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="cdf8f78dd85ca24422d77c8c79">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_15.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 400,
+      "width" : 1100
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="checkout.confirmation.seo">
+        <display-name xml:lang="x-default">Checkout-Confirmation</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="checkout.login.seo">
+        <display-name xml:lang="x-default">Checkout-Login</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="checkout.paymentdetails.seo">
+        <display-name xml:lang="x-default">Checkout-Payment details</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="checkout.revieworder.seo">
+        <display-name xml:lang="x-default">Checkout-Review Order</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="checkout.shippingdetails.seo">
+        <display-name xml:lang="x-default">Checkout-Shipping details</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="contactUs.landing.seo">
+        <display-name xml:lang="x-default">ContactUs-Landing</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="d2dfcdffc30c59b4286c59997b">
+        <type>component.commerce_assets.richText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "bgColor" : null,
+  "richText" : "&lt;p&gt;Welcome to knuffmann - your furniture store with a tradition of living&lt;/p&gt;",
+  "align" : "center",
+  "styleClass" : "h1 text-center",
+  "customCss" : "font-weight: normal;\ntext-transform: uppercase;\ncolor: #004290;\nfont-size: 28px"
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="d3e035b13426d3d3013247bb14">
+        <type>component.commerce_layouts.carousel</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "xsCarouselIndicators" : true,
+  "smCarouselControls" : true,
+  "mdCarouselIndicators" : true,
+  "xsCarouselControls" : false,
+  "smCarouselIndicators" : true,
+  "xsCarouselSlidesToDisplay" : 1,
+  "mdCarouselSlidesToDisplay" : 1,
+  "textHeadline" : null,
+  "smCarouselSlidesToDisplay" : 1
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="08953da22051aec93f7d7e75bb" type="component.commerce_layouts.carousel.slides">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="default.start.seo">
+        <display-name xml:lang="x-default">Default-Start</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="e0405a2d8661db151761135653">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_8.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="e119b57a0caf6d2a4b515eede1">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_19.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 139
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="e402c6341ea8346bcbf7c9e2d0">
+        <type>component.commerce_layouts.mobileGrid2r3c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="e119b57a0caf6d2a4b515eede1" type="component.commerce_layouts.mobileGrid2r3c.column1">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="5360aa09bd49e9e8a8005cdfa9" type="component.commerce_layouts.mobileGrid2r3c.column2">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="b97baa38c0e788fb4a551b7e03" type="component.commerce_layouts.mobileGrid2r3c.column3">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="c55b836dbb6bb5b55d71027e82" type="component.commerce_layouts.mobileGrid2r3c.column4">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="5414cd43df45eefdf4e6d5da10" type="component.commerce_layouts.mobileGrid2r3c.column5">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="91ec3e880eb61fbcaf62616010" type="component.commerce_layouts.mobileGrid2r3c.column6">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+    </content>
+
+    <content content-id="error.errorcode.seo">
+        <display-name xml:lang="x-default">Error-ErrorCode</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="error.start.seo">
+        <display-name xml:lang="x-default">Error-Start</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="f48f68a4f881896204cfc42e74">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_31.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 45,
+      "width" : 130
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="f5e8171bd2a4ed616de104dbec">
+        <type>component.commerce_layouts.mobileGrid1r1c</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="f68c35f70e697cf2f810dbf764">
+        <type>component.commerce_assets.imageAndText</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <data xml:lang="x-default">{
+  "ITCLink" : null,
+  "ITCText" : null,
+  "image" : {
+    "path" : "knuffman_7.jpg",
+    "focal_point" : {
+      "x" : 0.5,
+      "y" : 0.5
+    },
+    "meta_data" : {
+      "height" : 216,
+      "width" : 260
+    }
+  },
+  "heading" : null,
+  "alt" : null
+}</data>
+        <online-flag>true</online-flag>
+        <page-attributes/>
+    </content>
+
+    <content content-id="faf14dd8669c7d2bfc95496814">
+      <type>component.commerce_assets.imageAndText</type>
+      <config>{
+"visibility" : [ ]
+}</config>
+      <data xml:lang="x-default">{
+"ITCLink" : null,
+"ITCText" : null,
+"image" : {
+  "path" : "knuffman_27.jpg",
+  "focal_point" : {
+    "x" : 0.5,
+    "y" : 0.5
+  },
+  "meta_data" : {
+    "height" : 45,
+    "width" : 131
+  }
+},
+"heading" : null,
+"alt" : null
+}</data>
+      <online-flag>true</online-flag>
+      <page-attributes/>
+  </content>
+
+    <content content-id="footer">
+        <display-name xml:lang="x-default">footer</display-name>
+        <type>page.global</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <visibility-mode xml:lang="x-default">visible</visibility-mode>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <sitemap-included-flag>false</sitemap-included-flag>
+    </content>
+
+    <content content-id="copyright">
+        <display-name xml:lang="x-default">Copyright</display-name>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p style="text-align: center;"&gt;&lt;span style="font-size:11px;"&gt;&lt;strong&gt;Furniture store Franz Knuffmann GmbH &amp;amp; Co. KG&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="global">
+        <display-name xml:lang="x-default">global</display-name>
+        <type>page.global</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <visibility-mode xml:lang="x-default">visible</visibility-mode>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="65cdb131f471d2558760549204" type="page.global.footer">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="195c859a3fc0c8ccbbd5257260" type="page.global.header">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="a6f3a3a6fff3d7789fc1f5ccaa" type="page.global.footer">
+                <position>1.0</position>
+            </content-link>
+        </content-links>
+        <sitemap-included-flag>false</sitemap-included-flag>
+    </content>
+
+    <content content-id="knuffmannpdp">
+        <display-name xml:lang="x-default">knuffmannPDP</display-name>
+        <type>page.productDetail</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <visibility-mode xml:lang="x-default">visible</visibility-mode>
+        <data xml:lang="x-default">{
+  "product" : null
+}</data>
+        <aspect-type>pdp</aspect-type>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="69b7cb04ef51b1f312a5d09304" type="page.productDetail.main">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+        <content-object-assignments>
+            <content-object-assignment object-id="knuffmannallProducts" object-type="category"/>
+        </content-object-assignments>
+        <sitemap-included-flag>false</sitemap-included-flag>
+    </content>
+
+    <content content-id="plpknuffmann">
+        <display-name xml:lang="x-default">plpKnuffmann</display-name>
+        <type>page.productList</type>
+        <config>{
+          "visibility" : [ ]
+        }</config>
+        <visibility-mode xml:lang="x-default">visible</visibility-mode>
+        <data xml:lang="x-default">{
+          "category" : null
+        }</data>
+        <aspect-type>plp</aspect-type>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="0c84f127c09053feaa24540630" type="page.productList.main">
+                <position>0.0</position>
+            </content-link>
+        </content-links>
+        <content-object-assignments>
+            <content-object-assignment object-id="knuffmannallProducts" object-type="category"/>
+        </content-object-assignments>
+        <sitemap-included-flag>false</sitemap-included-flag>
+    </content>
+
+    <content content-id="homepage">
+        <display-name xml:lang="x-default">Homepage</display-name>
+        <type>page.storePage</type>
+        <config>{
+  "visibility" : [ ]
+}</config>
+        <visibility-mode xml:lang="x-default">visible</visibility-mode>
+        <data xml:lang="x-default">{ }</data>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <content-links>
+            <content-link content-id="cb639422dc4e1cdc6c60d16956" type="page.storePage.main">
+                <position>1.0</position>
+            </content-link>
+            <content-link content-id="7abc103f09f215b3319a3a5688" type="page.storePage.main">
+                <position>2.0</position>
+            </content-link>
+            <content-link content-id="057b9322250c116da79716754b" type="page.storePage.main">
+                <position>3.0</position>
+            </content-link>
+            <content-link content-id="9a3161229149c5c460c8252be0" type="page.storePage.main">
+                <position>4.0</position>
+            </content-link>
+            <content-link content-id="0484816b036062745a66fd9b24" type="page.storePage.main">
+                <position>5.0</position>
+            </content-link>
+            <content-link content-id="181e0e89d1c3c06e3c7d0f6c3f" type="page.storePage.main">
+                <position>7.0</position>
+            </content-link>
+            <content-link content-id="f5e8171bd2a4ed616de104dbec" type="page.storePage.main">
+                <position>0.0</position>
+            </content-link>
+            <content-link content-id="85e1193fa2f06c4c442ef24b5b" type="page.storePage.main">
+                <position>8.0</position>
+            </content-link>
+        </content-links>
+        <sitemap-included-flag>false</sitemap-included-flag>
+    </content>
+
+    <content content-id="login.oauthlogin.seo">
+        <display-name xml:lang="x-default">Login-OAuthLogin</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="login.oauthreentry.seo">
+        <display-name xml:lang="x-default">Login-OAuthReentry</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="login.show.seo">
+        <display-name xml:lang="x-default">Login-Show</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="order.confirmation.seo">
+        <display-name xml:lang="x-default">Order-Confirmation</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="order.details.seo">
+        <display-name xml:lang="x-default">Order-Details</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="order.filtered.seo">
+        <display-name xml:lang="x-default">Order-Filtered</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="order.history.seo">
+        <display-name xml:lang="x-default">Order-History</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="order.track.seo">
+        <display-name xml:lang="x-default">Order-Track</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="paymentinstruments.addpayment.seo">
+        <display-name xml:lang="x-default">PaymentInstruments-AddPayment</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="paymentinstruments.list.seo">
+        <display-name xml:lang="x-default">PaymentInstruments-List</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Knuffmann. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Knuffmann, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+    <content content-id="stores.find.seo">
+        <display-name xml:lang="x-default">Stores-Find</display-name>
+        <description xml:lang="x-default">SEO configurating asset</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Knuffmann - Ihr Möbelhaus | Wir sind auf Sie eingerichtet</page-title>
+            <page-description xml:lang="x-default">Entdecken Sie die Vielfalt an Möbeln und Wohnideen bei Schaffrath. Besuchen Sie unsere Wohnkaufhäuser in Mönchengladbach, Düsseldorf, Krefeld und Heinsberg.</page-description>
+            <page-keywords xml:lang="x-default">Möbel, Möbelhaus, Möbelkauf, Möbel online, Wohnkaufhaus, Einrichtungshaus, Wohnungseinrichtung, Einrichtung, Wohnraum, Wohnideen, Wohnen, Einrichten, Möbelmarken, Küchenmarken, Küchenmarkt, Küchenfachmarkt, Schaffrath, Casa Living, Young Store, Möbelausstellung, Gartenausstellung, Gartenmöbel, einrichten, wohnen, zuhause, Service</page-keywords>
+        </page-attributes>
+    </content>
+
+</library>
